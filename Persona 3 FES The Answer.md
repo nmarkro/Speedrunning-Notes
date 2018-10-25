@@ -75,7 +75,7 @@ Bring Mitsuru, Yukari, & Junpei
 - Set Mitsuru to Knockdown
 - Scan Beasts -> Castle
 - Turn 1 go for the Bufulas on the Beasts
-- Spam Eerie sound and Bufula when you can
+- Spam Eerie Sound and Bufula when you can
 
 Grind in Section 2 with Junpei, Yukari, & Akihiko until Aigis is level 36
 
@@ -132,11 +132,11 @@ Fuse:
 
 Bring Junpei, Mitsuru, Yukari
 
-#### Brave Wheel, Judgement Sword, & Ice Raven
+### Brave Wheel, Judgement Sword, & Ice Raven
 
 - Scan the Wheel -> Bird -> Sword
 - Set everyone to heal/support
--  Swap Mitsuru to knockdown after Wheel scan
+- Swap Mitsuru to knockdown after Wheel scan
 - Swap Junpei to knockdown after Marakukaja
 - Burn down the Ice Raven with Succubus' Agidyne
 - Keep everything Knocked down until the fight is over
