@@ -4,6 +4,6 @@
 
 ## Other Links
 
-[Twitter](twitter.com/nmarkro)
+[Twitter]( http://twitter.com/nmarkro)
 
-[Twitch](twitch.tv/nmarkro)
+[Twitch](http://twitch.tv/nmarkro)
