@@ -2,7 +2,7 @@
 ### By NMarkro
 Special thanks to [lil_fatkid](twitch.tv/lil_fatkid) and many others.
 
-Metis
+### Metis
 
 Press Triangle
 ## Malebolge
@@ -21,7 +21,7 @@ Get Hua Po, Narcissus, & Titan before fighting
 
 
 
-#### Immortal Gigas & 3 Visceral Mayas
+### Immortal Gigas & 3 Visceral Mayas
 ​	Set everyone to Act Freely
 
 ​	Scan the Gigas first, then Maya
@@ -34,7 +34,7 @@ Fuse Orpheus x Narcissus = Sarasvati
 
 Bring Junpei, Yukari, Metis
 
-#### Brilliant Cyclops (& Soul Dancers)
+### Brilliant Cyclops (& Soul Dancers)
 
 ​	Set everyone to target the Cyclops, swap Yukari to Heal/Support
 
@@ -70,7 +70,7 @@ Fuse Sarasvati x Titan = Mothman w/ Bufula
 
 Bring Mitsuru, Yukari, & Junpei
 
-#### Raindrop Castle & 2 El Dorado Beast
+### Raindrop Castle & 2 El Dorado Beast
 
 ​	Set Junpei to target the Castle, swap to Knockdown when the Castle dies
 
@@ -105,7 +105,7 @@ Fuse King Frost x Sati/Orobas = Seiryu
 
 Bring Junpei, Yukari, Akihiko
 
-#### Harem Dancer & 2 Merciless Mayas
+### Harem Dancer & 2 Merciless Mayas
 
 ​	Set everyone to Heal/Support, Yukari to Knockdown
 
@@ -157,7 +157,7 @@ Bring Junpei, Mitsuru, Yukari
 
 Bring Junpei, Mitsuru, Akihiko
 
-#### Primitive Idol, Shouting Tiara, & Wrathful Book
+### Primitive Idol, Shouting Tiara, & Wrathful Book
 
 ​	Set everyone to Knockdown, Junpei to Heal/Support
 
@@ -171,7 +171,7 @@ Bring Junpei, Mitsuru, Akihiko
 
 Bring Junpei, Mitsuru, Akihiko
 
-#### Crying Table, Wondrous Magus, & Cowardly Maya
+### Crying Table, Wondrous Magus, & Cowardly Maya
 
 ​	Set everyone to Knockdown, Akihiko to Heal/Support
 
@@ -200,7 +200,7 @@ Grind in Section 2 with Junpei, Yukari, Akihiko until Succubus learns Ailment Bo
 
 Bring Junpei, Yukari, & Akihiko
 
-#### Neo Minotaur
+### Neo Minotaur
 
 ​	Set everyone to Heal/Support
 
