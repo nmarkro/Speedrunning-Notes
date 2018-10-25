@@ -1,6 +1,6 @@
 # Persona 3 FES: The Answer Notes
 ### By NMarkro
-Special thanks to [lil_fatkid](twitch.tv/lil_fatkid) and many others.
+Special thanks to [lil_fatkid](http://twitch.tv/lil_fatkid) and many others.
 
 ### Metis
 
