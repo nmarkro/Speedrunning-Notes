@@ -22,29 +22,25 @@ Get Hua Po, Narcissus, & Titan before fighting
 
 
 ### Immortal Gigas & 3 Visceral Mayas
-​	Set everyone to Act Freely
-
-​	Scan the Gigas first, then Maya
-
-​	Charm the Gigas then spam Maragi
+- Set everyone to Act Freely
+- Scan the Gigas first, then Maya
+- Charm the Gigas then spam Maragi
 
 ## Cocytus
 
-Fuse Orpheus x Narcissus = Sarasvati
+Fuse:
+
+> Orpheus x Narcissus = Sarasvati
 
 Bring Junpei, Yukari, Metis
 
 ### Brilliant Cyclops (& Soul Dancers)
 
-​	Set everyone to target the Cyclops, swap Yukari to Heal/Support
-
-​	Scan the Cyclops -> Dancers
-
-​	Phys attack the Cyclops until it starts summoning
-
-​	Keep the Dancers knocked down with Bufula
-
-​	Once the Cyclops is dead swap everyone to Knockdown
+- Set everyone to target the Cyclops, swap Yukari to Heal/Support
+- Scan the Cyclops -> Dancers
+- Phys attack the Cyclops until it starts summoning
+- Keep the Dancers knocked down with Bufula
+- Once the Cyclops is dead swap everyone to Knockdown
 
 Finish the rest of Cocytus
 
@@ -64,7 +60,9 @@ Grind until Aigis is level 32
 | Blue Sigil     |        | **Weak** |        |          | Absorb |          | Absorb   |       | Repel    |
 | Imprudent Maya |        |          |        | Null     |        |          |          |       |          |
 
-Fuse Sarasvati x Titan = Mothman w/ Bufula
+Fuse:
+
+> Sarasvati x Titan = Mothman w/ Bufula
 
 ## Caina
 
@@ -72,17 +70,12 @@ Bring Mitsuru, Yukari, & Junpei
 
 ### Raindrop Castle & 2 El Dorado Beast
 
-​	Set Junpei to target the Castle, swap to Knockdown when the Castle dies
-
-​	Set Yukari to Knockdown, swap to Heal/Support as needed
-
-​	Set Mitsuru to Knockdown
-
-​	Scan Beasts -> Castle
-
-​	Turn 1 go for the Bufulas on the Beasts
-
-​	Spam Eerie sound and Bufula when you can
+- Set Junpei to target the Castle, swap to Knockdown when the Castle dies
+- Set Yukari to Knockdown, swap to Heal/Support as needed
+- Set Mitsuru to Knockdown
+- Scan Beasts -> Castle
+- Turn 1 go for the Bufulas on the Beasts
+- Spam Eerie sound and Bufula when you can
 
 Grind in Section 2 with Junpei, Yukari, & Akihiko until Aigis is level 36
 
@@ -101,17 +94,17 @@ Find Sati/Orobas, King Frost, Virtue
 | Ruinous Idol     |        |        |        | Absorb   |          | Null     | **Weak** | Null  | Repel |
 | Burning Beetle   |        | Repel  | Repel  | Absorb   | **Weak** |          |          | Null  | Null  |
 
-Fuse King Frost x Sati/Orobas = Seiryu
+Fuse:
+
+> King Frost x Sati/Orobas = Seiryu
 
 Bring Junpei, Yukari, Akihiko
 
 ### Harem Dancer & 2 Merciless Mayas
 
-​	Set everyone to Heal/Support, Yukari to Knockdown
-
-​	Scan the Maya -> Dancer
-
-​	Spam Poison Mist and keep the Mayas knocked down with Garula
+- Set everyone to Heal/Support, Yukari to Knockdown
+- Scan the Maya -> Dancer
+- Spam Poison Mist and keep the Mayas knocked down with Garula
 
 ## Atenora
 
@@ -133,39 +126,31 @@ Find Raja Naga
 | Minotaur IV     |          |          |          | **Weak** | Resist   |          |          |          |        |
 | Affection Relic |          |          | Absorb   |          |          |          |          | Null     | Null   |
 
-Fuse Raja Naga x Virtue = Succubus w/ Tentarafoo, Infuriate
+Fuse:
+
+> Raja Naga x Virtue = Succubus w/ Tentarafoo, Infuriate
 
 Bring Junpei, Mitsuru, Yukari
 
 #### Brave Wheel, Judgement Sword, & Ice Raven
 
-​	Scan the Wheel -> Bird -> Sword
-
-​	Set everyone to heal/support
-
-​	Swap Mitsuru to knockdown after Wheel scan
-
-​	Swap Junpei to knockdown after Marakukaja
-
-​	Burn down the Ice Raven with Succubus' Agidyne
-
-​	Keep everything Knocked down until the fight is over
-
-​	Don't be afraid to use Bead Chains
-
-​	Give exp to Succubus
+- Scan the Wheel -> Bird -> Sword
+- Set everyone to heal/support
+-  Swap Mitsuru to knockdown after Wheel scan
+- Swap Junpei to knockdown after Marakukaja
+- Burn down the Ice Raven with Succubus' Agidyne
+- Keep everything Knocked down until the fight is over
+- Don't be afraid to use Bead Chains
+- Give exp to Succubus  
 
 Bring Junpei, Mitsuru, Akihiko
 
 ### Primitive Idol, Shouting Tiara, & Wrathful Book
 
-​	Set everyone to Knockdown, Junpei to Heal/Support
-
-​	Scan the Idol -> Tiara -> Book
-
-​	After Stagnant Air, swap Junpei to Knockdown, Agidyne the book, and Infuriate
-
-​	Give exp to Succubus
+- Set everyone to Knockdown, Junpei to Heal/Support
+- Scan the Idol -> Tiara -> Book
+- After Stagnant Air, swap Junpei to Knockdown, Agidyne the book, and Infuriate
+- Give exp to Succubus
 
 ## Ptolomea
 
@@ -173,13 +158,10 @@ Bring Junpei, Mitsuru, Akihiko
 
 ### Crying Table, Wondrous Magus, & Cowardly Maya
 
-​	Set everyone to Knockdown, Akihiko to Heal/Support
-
-​	Scan the Table -> Maya -> Magus
-
-​	Spam Tentarafoo and keep the Maya & Magus knocked down with Agidyne
-
-​	Give exp to Succubus
+- Set everyone to Knockdown, Akihiko to Heal/Support
+- Scan the Table -> Maya -> Magus
+- Spam Tentarafoo and keep the Maya & Magus knocked down with Agidyne
+- Give exp to Succubus  
 
 Grind in Section 2 with Junpei, Yukari, Akihiko until Succubus learns Ailment Boost
 
@@ -202,13 +184,10 @@ Bring Junpei, Yukari, & Akihiko
 
 ### Neo Minotaur
 
-​	Set everyone to Heal/Support
-
-​	Scan the Minotaur
-
-​	Attack Mirror -> Infuriate -> Fire Break -> Attack Mirror -> Infuriate -> Agidyne
-
-​	Swap Junpei & Akihiko to Full Assault after turn 1
+- Set everyone to Heal/Support
+- Scan the Minotaur
+- Attack Mirror -> Infuriate -> Fire Break -> Attack Mirror -> Infuriate -> Agidyne
+- Swap Junpei & Akihiko to Full Assault after turn 1  
 
 
 
