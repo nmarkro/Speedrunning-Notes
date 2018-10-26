@@ -6,6 +6,14 @@ Special thanks to [lil_fatkid](https://www.twitch.tv/lil_fatkid), [JangBang](htt
 
 ---
 
+## Table of Contents
+
+1. [Malebolge](#malebolge)
+   1. [Immortal Gigas & 3 Visceral Mayas](#immortal-gigas-&-3-visceral-mayas)
+2. [Cocytus](#cocytus)
+   1. [Brilliant Cyclops (& Soul Dancers)](#brilliant-cyclops-(&-soul-dancers))
+3. [Caina](#caina)
+
 ### Metis
 
 Press Triangle
@@ -108,7 +116,7 @@ Fuse:
 
 > [King Frost](#king-frost) x [Sati](#sati)/Orobas = Seiryu
 
-If you don't have the materials run around in Cocytus 
+If you don't have the materials run around in Cocytus for a bit
 
 Bring Junpei, Yukari, Akihiko
 
