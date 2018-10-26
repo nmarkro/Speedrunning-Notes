@@ -9,15 +9,38 @@ Special thanks to [lil_fatkid](https://www.twitch.tv/lil_fatkid), [JangBang](htt
 ## Table of Contents
 
 1. [Malebolge](#malebolge)
-   1. [Immortal Gigas & 3 Visceral Mayas](#immortal-gigas-&-3-visceral-mayas)
+   1. [Metis](#metis)
+   2. [Immortal Gigas & 3 Visceral Mayas](#immortal-gigas--3-visceral-mayas)
 2. [Cocytus](#cocytus)
-   1. [Brilliant Cyclops (& Soul Dancers)](#brilliant-cyclops-(&-soul-dancers))
+   1. [Brilliant Cyclops (& Soul Dancers)](#brilliant-cyclops--soul-dancers)
 3. [Caina](#caina)
+   1. [Raindrop Castle & 2 El Dorado Beast](#raindrop-castle--2-el-dorado-beast)
+   2. [Harem Dancer & 2 Merciless Mayas](#harem-dancer--2-merciless-mayas)
+4. [Atenora](#atenora)
+   1. [Brave Wheel, Judgement Sword, & Ice Raven](#brave-wheel-judgement-sword--ice-raven)
+   2. [Primitive Idol, Shouting Tiara, & Wrathful Book](#primitive-idol-shouting-tiara--wrathful-book)
+5. [Ptolomea](#ptolomea)
+   1. [Crying Table, Wondrous Magus, & Cowardly Maya](#crying-table-wondrous-magus--cowardly-maya)
+   2. [Neo Minotaur](#neo-minotaur)
+6. [Judecca](#judecca)
+   1. [Spastic Turret & Slaughter Drives](#spastic-turret--slaughter-drives)
+   2. [Conceited Maya & Jotun of Bloods](#conceited-maya--jotun-of-bloods)
+7. [Empyrean](#empyrean)
+   1. [Rebellious Cyclops & 2 Acheron Seekers](#rebellious-cyclops--2-acheron-seekers)
+   2. [Tenjin Musha, Kaiden Musha, & Onnen Musha](#tenjin-musha-kaiden-musha--onnen-musha)
+   3. [??? (Protagonist)](#-protagonist)
+8. [Team Fights & Final Boss](#team-fights--final-boss)
+   1. [Akihiko & Ken](#akihiko--ken)
+   2. [Koromaru & Junpei](#koromaru--junpei)
+   3. [Yukari & Mitsuru](#yukari--mitsuru)
+   4. [Erebus](#erebus)
+9. [Backup Fusions](#backup-fusions)
 
+## Malebolge
 ### Metis
 
-Press Triangle
-## Malebolge
+* Press Triangle
+
 Bring Yukari, Ken, Metis
 
 Get Hua Po, Narcissus, & Titan before fighting the Gigas & Mayas
@@ -482,7 +505,7 @@ After grinding, take any accessories off of all party members & only bring Yukar
 
 Equip Null Wind accessory on Aigis, Wind Amp on Yukari
 
-### ???
+### ??? (Protagonist)
 
 * Changes Persona every 3 turns
 * Pallas Athena -> Isis -> Pallas Athena -> ...
