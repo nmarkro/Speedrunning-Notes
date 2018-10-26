@@ -1,8 +1,8 @@
 # Persona 3 FES: The Answer Notes
 ### By NMarkro
-Special thanks to [lil_fatkid](http://twitch.tv/lil_fatkid), [JangBang](https://www.twitch.tv/TheNotoriousSpeedrunning), [Iceplug](https://www.twitch.tv/iceplug), and many others.
+Special thanks to [lil_fatkid](https://www.twitch.tv/lil_fatkid), [JangBang](https://www.twitch.tv/TheNotoriousSpeedrunning), [Iceplug](https://www.twitch.tv/iceplug), and many others.
 
-**TODO**: Shopping trips, backup fusions, probably more that I'm forgetting
+**TODO**: Shopping trips, backup fusions, shuffle time persona locations, probably more that I'm forgetting
 
 ---
 
@@ -23,12 +23,12 @@ Get Hua Po, Narcissus, & Titan before fighting the Gigas & Mayas
 | Wild Beast     |        | Resist | Resist | ***Weak*** |          |          | Null     | ***Weak*** | ***Weak*** |
 | Stoic Snake    |        |        |        |          | Absorb   | Repel    |          | ***Weak*** |          |
 
-
-
 ### Immortal Gigas & 3 Visceral Mayas
 - Set everyone to Act Freely
 - Scan the Gigas first, then Maya
 - Charm the Gigas then spam Maragi
+
+Buy 5 Revival Beads & 5 Me Patra Gems
 
 ## Cocytus
 
@@ -48,11 +48,13 @@ Bring Junpei, Yukari, Metis
 
 Finish the rest of Cocytus
 
-## Cocytus Section 2 Grind
+Buy Vayu, Indra, & Varuna Bracers and equip them on Akihiko, Yukari, & Mitsuru
 
-Bring Akihiko, Yukari, & Mitsuru
+Grind in Cocytus Section 2 with Akihiko, Yukari, & Mitsuru
 
 Grind until Aigis is level 32
+
+Try to find Sati/Orobas, King Frost, Virtue
 
 |                | Slash  | Strike   | Pierce | Fire     | Ice    | Elec     | Wind     | Light | Dark     |
 | -------------- | ------ | -------- | ------ | -------- | ------ | -------- | -------- | ----- | -------- |
@@ -69,6 +71,10 @@ Fuse:
 > Sarasvati x Titan = Mothman
 >
 > > Bufula
+> >
+> > Mudo
+>
+> also fuse Sati, King Frost, and/or Virtue if you can
 
 ## Caina
 
@@ -85,8 +91,6 @@ Bring Mitsuru, Yukari, & Junpei
 
 Grind in Section 2 with Junpei, Yukari, & Akihiko until Aigis is level 36
 
-Find Sati/Orobas, King Frost, Virtue
-
 |                  | Slash  | Strike | Pierce | Fire     | Ice      | Elec     | Wind     | Light | Dark  |
 | ---------------- | ------ | ------ | ------ | -------- | -------- | -------- | -------- | ----- | ----- |
 | Ill-Fated Maya   |        | Absorb |        |          |          |          | ***Weak*** |       |       |
@@ -102,7 +106,9 @@ Find Sati/Orobas, King Frost, Virtue
 
 Fuse:
 
-> King Frost x Sati/Orobas = Seiryu
+> [King Frost](#king-frost) x [Sati](#sati)/Orobas = Seiryu
+
+If you don't have the materials run around in Cocytus 
 
 Bring Junpei, Yukari, Akihiko
 
@@ -134,7 +140,7 @@ Find Raja Naga
 
 Fuse:
 
-> Raja Naga x Virtue = Succubus 
+> Raja Naga x [Virtue](#virtue) = Succubus 
 >
 > > Tentarafoo 
 > >
@@ -190,7 +196,9 @@ Grind in Section 2 with Junpei, Yukari, Akihiko until Succubus learns Ailment Bo
 | Bestial Wheel  | Resist     |        | Resist     |          | Repel    | ***Weak*** | ***Weak*** | Repel      | Repel    |
 | Minotaur III   | Resist     | Null   | Resist     |          |          |            |            |            |          |
 
-Bring Junpei, Yukari, & Akihiko
+Bring Junpei, Yukari, & Akihiko 
+
+*You should have at least 2 Attack Mirrors*
 
 ### Neo Minotaur
 
@@ -252,6 +260,8 @@ Bring Akihiko, Junpei, & Yukari
 * Scan Drives -> Turret
 * Keep Masukunda/Matarunda up and spam Virus Breath
 * Revive Yukari whenever she dies
+
+Take the armor you just gave to Junpei and give it to Mitsuru
 
 Grind in Judecca Section 2 with Metis, Yukari, & Mitsuru
 
@@ -460,13 +470,11 @@ Learn Arms Master over Diarahan on Bishamonten
 
 Try to get to floor 25 as many times as possible for ultimate weapon chests 
 
-Bring only Yukari
-
-Take any accessories off of all party members
+After grinding, take any accessories off of all party members & only bring Yukari
 
 Equip Null Wind accessory on Aigis, Wind Amp on Yukari
 
-### ????
+### ???
 
 * Changes Persona every 3 turns
 * Pallas Athena -> Isis -> Pallas Athena -> ...
@@ -517,3 +525,54 @@ Equip any ultimate weapons if you haven't already
 * Swap Akihiko & Yukari to Full Assault during Dark Embrace
 * Don't get crit lol
 
+## Backup Fusions
+
+### King Frost
+
+> Oumitsunu x Legion/Orpheus/Narcissus/Queen Mab = King Frost
+>
+> Shiisaa/Lamia x Empusa/Kusi Mitama = King Frost
+>
+> Flauros x Fortuna/Empusa = King Frost
+
+### Sati
+
+> Legion/Orpheus x Take-Minakata/Orthrus = Sati
+>
+> High Pixie/Sarasvati x Narcissus/Queen Mab = Sati
+>
+> High Pixie x Ares/Oumitsunu = Sati
+>
+> High Pixie x Empusa/Kusi Mitama = Sati
+>
+> Sarasvati x Fortuna/Empusa = Sati
+>
+> Shiisaa x Narcissus/Queen Mab = Sati
+>
+> Narcissus x Empusa/Kusi Mitama = Sati
+>
+> Queen Mab x Fortuna/Empusa = Sati
+>
+> Ares/Oumitsunu x Power = Sati
+
+### Virtue
+
+> Legion x Ganga = Virtue
+>
+> Orpheus x Sarasvati/Ganga = Virtue
+>
+> Black Frost x High Pixie/Sarasvati = Virtue
+>
+> Legion/Orpheus x Kusi Mitama = Virute
+>
+> Black Frost x Fortuna/Empusa = Virtue
+>
+> High Pixie/Sarasvati x King Frost = Virtue
+>
+> Sarasvati x Take-Mikazuchi/King Frost = Virtue
+>
+> Shiisaa x Oumitsunu = Virtue
+>
+> Queen Mab x Lamia = Virtue
+>
+> Oumitsunu x Titan/Jikokuten = Virtue
