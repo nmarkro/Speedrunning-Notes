@@ -4,8 +4,6 @@ Special thanks to [lil_fatkid](https://www.twitch.tv/lil_fatkid), [JangBang](htt
 
 **TODO**: Shopping trips, backup fusions, shuffle time persona locations, probably more that I'm forgetting
 
----
-
 ## Table of Contents
 
 1. [Malebolge](#malebolge)
@@ -36,7 +34,10 @@ Special thanks to [lil_fatkid](https://www.twitch.tv/lil_fatkid), [JangBang](htt
    4. [Erebus](#erebus)
 9. [Backup Fusions](#backup-fusions)
 
+------
+
 ## Malebolge
+
 ### Metis
 
 * Press Triangle
@@ -138,6 +139,8 @@ Grind in Section 2 with Junpei, Yukari, & Akihiko until Aigis is level 36
 Fuse:
 
 > [King Frost](#king-frost) x [Sati](#sati)/Orobas = Seiryu
+>
+> Make sure to learn Virus Breath over Growth 2
 
 If you don't have the materials run around in Cocytus for a bit
 
@@ -153,7 +156,7 @@ Bring Junpei, Yukari, Akihiko
 
 Grind in Atenora Section 1 with Junpei, Mitsuru, & Yukari until Aigis is level 43
 
-Find Raja Naga
+Try to find Raja Naga
 
 |                 | Slash    | Strike   | Pierce   | Fire     | Ice      | Elec     | Wind     | Light    | Dark   |
 | --------------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- | ------ |
@@ -171,35 +174,46 @@ Find Raja Naga
 
 Fuse:
 
-> Raja Naga x [Virtue](#virtue) = Succubus 
+> [Raja Naga](#raja-naga) x [Virtue](#virtue) = Succubus 
 >
 > > Tentarafoo 
 > >
 > > Infuriate
 
+Sell useless shit and restock on Me Patra Gems & Revival Beads if needed
+
 Bring Junpei, Mitsuru, Yukari
 
 ### Brave Wheel, Judgement Sword, & Ice Raven
 
+- This fight can be basically impossible with a bad turn order and/or lots of evades :)
 - Scan the Wheel -> Bird -> Sword
-- Set everyone to heal/support
-- Swap Mitsuru to knockdown after Wheel scan
+- Set everyone to knockdown, Junpei to Heal/Support
 - Swap Junpei to knockdown after Marakukaja
+- Swap Yukari to Heal/Support as needed
 - Burn down the Ice Raven with Succubus' Agidyne
-- Keep everything Knocked down until the fight is over
+- Swap to Mothman and Bufula down the Wheel after the Raven
+- If you want to be fast swap to Seiryu and Garula down the Sword
+- If you want to be safe use Mothman and Fire Break -> Agidyne
 - Don't be afraid to use Bead Chains
 - Give exp to Succubus  
 
 Bring Junpei, Mitsuru, Akihiko
 
+Make sure Mothman has Ziodyne, if not get it
+
 ### Primitive Idol, Shouting Tiara, & Wrathful Book
 
+- Start with Mothman
 - Set everyone to Knockdown, Junpei to Heal/Support
 - Scan the Idol -> Tiara -> Book
+- Ziodyne the Idol and Bufula the Tiara turn 1
 - After Stagnant Air, swap Junpei to Knockdown, Agidyne the book, and Infuriate
 - Give exp to Succubus
 
 ## Ptolomea
+
+Sell useless shit and restock on Me Patra Gems & Revival Beads if needed
 
 Bring Junpei, Mitsuru, Akihiko
 
@@ -210,22 +224,7 @@ Bring Junpei, Mitsuru, Akihiko
 - Spam Tentarafoo and keep the Maya & Magus knocked down with Agidyne
 - Give exp to Succubus  
 
-Grind in Section 2 with Junpei, Yukari, Akihiko until Succubus learns Ailment Boost
-
-|                | Slash      | Strike | Pierce     | Fire     | Ice      | Elec       | Wind       | Light      | Dark     |
-| -------------- | ---------- | ------ | ---------- | -------- | -------- | ---------- | ---------- | ---------- | -------- |
-| Almighty Hand  |            |        |            |          | Absorb   |            |            | Null       | ***Weak*** |
-| Silent Book    |            |        |            | ***Weak*** | Absorb   |            | Resist     |            |          |
-| Writhing Tiara |            |        |            | Null     | ***Weak*** |            |            |            |          |
-| Iron Dice      | Resist     | Resist | Resist     |          |          | ***Weak***   |            |            |          |
-| Mind Dice      |            |        |            | Resist   | Resist   | ***Weak*** | Resist     |            |          |
-| Vehement Idol  |            |        | Repel      | Repel    |          |            | Null       | ***Weak*** | Repel    |
-| Jupiter Eagle  |            |        |            |          |          | ***Weak*** | Absorb     |            |          |
-| Indolent Maya  |            |        | ***Weak*** |          |          | Resist     |            |            |          |
-| Phantom Lord   |            |        |            | Null     |          |            |            | ***Weak*** | Repel    |
-| Perpetual Sand | ***Weak*** |        | ***Weak*** | Null     | Null     | Null       | Null       |        |      |
-| Bestial Wheel  | Resist     |        | Resist     |          | Repel    | ***Weak*** | ***Weak*** | Repel      | Repel    |
-| Minotaur III   | Resist     | Null   | Resist     |          |          |            |            |            |          |
+Make sure Succubus has Ailment Boost (or inherited Rage Boost)
 
 Bring Junpei, Yukari, & Akihiko 
 
@@ -237,12 +236,15 @@ Bring Junpei, Yukari, & Akihiko
 - Scan the Minotaur
 - Attack Mirror -> Infuriate -> Fire Break -> Attack Mirror -> Infuriate -> Agidyne
 - Swap Junpei & Akihiko to Full Assault after turn 1  
+- If Fire Break runs out before killing him use Mothman's Ziodyne and pray
 
 ## Judecca
 
-Bring Mitsuru, Yukari, & Akihiko and grind to level 53
+Bring Mitsuru, Yukari, & Akihiko and grind to level 55
 
 Akihiko needs to learn Ziodyne (level 53) & Yukari needs to learn Diarahan (level 52)
+
+Optional: Fuse something with Hama attacks if you don't have any (Virtue, Dominion, Thoth, etc)
 
 Find Kurama Tengu, Throne, Clotho, Lachesis and other fusion materials
 
@@ -261,25 +263,25 @@ Find Kurama Tengu, Throne, Clotho, Lachesis and other fusion materials
 | Daring Gigas   | Resist | Resist     | Resist |        |            |        | ***Weak*** |            |            |
 | Phantom Hero   |        |            |        | Absorb |            |        |            | Repel      | Repel      |
 
-Fuse:
+As soon as you hit 53 fuse:
 
-> Seiryu x Kurama Tengu x Jikokuten/Virute/Hanuman/Dominion/Ose/Decarabia = Surt (Heart Item) 
+> Seiryu x [Kurama Tengu](#kurama-tengu) x Jikokuten/Virtue/Hanuman/Dominion/Ose/Decarabia = Surt (Heart Item) 
 >
 > > Virus Breath 
 > >
-> > Growth 2 
-> >
-> > Masukunda/Matarunda
+> > Masukunda
 
-> Throne x Saki Mitama/Thoth/Hokuto Seikun/Titania = Thor (Heart Item)
+> [Throne](Throne) x Saki Mitama/Thoth/Hokuto Seikun/Titania = Thor (Heart Item)
 >
 > > Mahamaon
-> >
-> > Hama Boost
 
-> Clotho x Lachesis x Orobas/Nata Taishi/Taraka/Rangda/Thoth/Narasihma/Barong = Jatayu (Heart Item)
+When you hit level 55 fuse:
+
+> [Clotho](#clotho) x [Lachesis](#lachesis) x Orobas/Nata Taishi/Taraka/Rangda/Thoth/Narasihma/Barong/Vasuki = Jatayu (Heart Item)
 
 Buy 1 Ergo Armor, 3 Kaiser Armor, 1 Titanium Legs, & 3 Assassin's Shoes
+
+Refill on Revival Beads if you need to (you'll want a lot)
 
 Equip them all on Aigis, Akihiko, Junpei, & Yukari
 
@@ -289,16 +291,18 @@ Bring Akihiko, Junpei, & Yukari
 
 * Set Junpei & Yukari to Heal/Support, Akihiko to Knockdown
 * Scan Drives -> Turret
-* Keep Masukunda/Matarunda up and spam Virus Breath
+* Keep Masukunda up and spam Virus Breath
 * Revive Yukari whenever she dies
+* Fire Break -> Agidyne the last bit of the Tank's HP
+* Give EXP to Surt
 
 Take the armor you just gave to Junpei and give it to Mitsuru
 
 Grind in Judecca Section 2 with Metis, Yukari, & Mitsuru
 
-Grind until you get all 3 Heart Items & Metis learns Poison Arrow (level 55)
+Grind until you get all 3 Heart Items, fuse Odin w/ Makarakarn, fuse Titania w/ Null Elec & Metis learns Poison Arrow (level 53). Might be a good idea to get Mitsuru & Yukari their break spells (level 61 & 60)
 
-You'll also need at least Kingu, Lachesis, & Koumokuten
+You'll also need at least Kingu, Lachesis (in Ptolomea), & Koumokuten/Rangda
 
 |                | Slash      | Strike     | Pierce     | Fire       | Ice        | Elec       | Wind       | Light      | Dark       |
 | -------------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- |
@@ -307,7 +311,7 @@ You'll also need at least Kingu, Lachesis, & Koumokuten
 | Power Castle   |            |            |            | Resist     | ***Weak*** | Null       | Null       |            |            |
 | Golden Beetle  |            |            |            |            | Null       |            | ***Weak*** |            |            |
 | Angry Table    | ***Weak*** |            |            |            | Null       |            | ***Weak*** |            |            |
-| Green Sigil    |            |            |            | ***Weak*** |            | Absorb     |            |            | Light      |
+| Green Sigil    |            |            |            | ***Weak*** |            | Absorb     |            | Repel      |            |
 | Phantom Mage   |            |            |            | Resist     |            |            |            | ***Weak*** | Null       |
 | Hakurou Musha  |            |            |            |            |            |            |            | ***Weak*** | ***Weak*** |
 | Silver Dice    | Null       | Null       | Null       |            |            |            |            | ***Weak*** | ***Weak*** |
@@ -319,45 +323,45 @@ At level 59 fuse:
 
 > Hua Po x Kingu = Seiryu
 >
-> Lachesis x Seiryu x Koumokuten = Anubis
+> [Lachesis](#lachesis) x Seiryu x Koumokuten/Rangda = Anubis
 
-Grind with Anubis until it learns Makarakarn then fuse Odin:
+Grind with Anubis until it learns Makarakarn then fuse Odin from one of the following:
 
-> Anubis x Thoth/Daisoujou = Raphael
+> Thoth/Daisoujou x Anubis = Raphael
 >
 > > Makarakarn
 >
-> Raphael x Koumokuten = Odin
->
-> > Makarakarn
-
-or
-
-> Anubis x Kingu = Daisoujou
->
-> > Makarakarn
->
-> Atropos x Daisoujou = Odin
+> Koumokuten x Raphael = Odin
 >
 > > Makarakarn
 
 or
 
-> Anubis x Decarabia = Ganesha
+> Kingu x Anubis = Daisoujou
 >
 > > Makarakarn
 >
-> Ganesha x Throne = Odin
+> Daisoujou x Atropos = Odin
 >
 > > Makarakarn
 
 or
 
-> Anubis x Kikuri-Hime = Laksmi
+> Decarabia x Anubis = Ganesha
 >
 > > Makarakarn
 >
-> Laksmi x Throne = Odin
+> Throne x Ganesha = Odin
+>
+> > Makarakarn
+
+or
+
+> Kikuri-Hime x Anubis = Laksmi
+>
+> > Makarakarn
+>
+> Throne x Laksmi = Odin
 >
 > > Makarakarn
 
@@ -375,10 +379,9 @@ When Jatayu gets it's Heart Item fuse Titania:
 
 Equip 
 
-* Aigis with Null Wind accessory
-* Yukari with Null Elec accessory
-
-* Mitsuru with Null Fire accessory 
+* Aigis with Storm Ring
+* Yukari with Lightning Gloves
+* Mitsuru with Blazing Flame 
 
 Take Metis, Yukari, & Mitsuru
 
@@ -406,6 +409,8 @@ Gather the necessary personas and fuse:
 > >
 > > Fire Boost
 
+Give Mitsuru & Yukari back their Amp Bracers
+
 Grind in Empyrean with Akihiko, Mitsuru, & Yukari until Bishamonten learns Fire Amp
 
 |                 | Slash  | Strike     | Pierce | Fire       | Ice        | Elec       | Wind       | Light  | Dark       |
@@ -426,15 +431,17 @@ Grind in Empyrean with Akihiko, Mitsuru, & Yukari until Bishamonten learns Fire 
 | Fanatic Tower   |        |            |        | Repel      | Repel      | Repel      |            | Null   | Null       |
 | Grudge Tower    | Resist |            | Resist | Absorb     |            | Repel      |            | Null   | Repel      |
 
-Drop all party members
+Take Akihiko & Junpei or go Solo
 
 Equip Null Wind accessory on Aigis
 
 ### Rebellious Cyclops & 2 Acheron Seekers
 
+* Set everyone to Full Assault
 * Stay on Bishamonten and spam Maragidyne/Ragnarok
-* Heal as needed
+* Heal as needed but don't bother reviving the party
 * Try to take out the Cyclops before the last Seeker
+* Throw Attack Mirror after Power Charge
 
 Grind in Empyrean Section 2 with Akihiko, Yukari, & Mitsuru
 
@@ -560,50 +567,92 @@ Equip any ultimate weapons if you haven't already
 
 ### King Frost
 
-> Oumitsunu x Legion/Orpheus/Narcissus/Queen Mab = King Frost
+> Oumitsunu x Legion/Orpheus/Narcissus/Queen Mab
 >
-> Shiisaa/Lamia x Empusa/Kusi Mitama = King Frost
+> Shiisaa/Lamia x Empusa/Kusi Mitama
 >
-> Flauros x Fortuna/Empusa = King Frost
+> Flauros x Fortuna/Empusa
 
 ### Sati
 
-> Legion/Orpheus x Take-Minakata/Orthrus = Sati
+> Legion/Orpheus x Take-Minakata/Orthrus
 >
-> High Pixie/Sarasvati x Narcissus/Queen Mab = Sati
+> Shiisa/High Pixie/Sarasvati x Narcissus/Queen Mab
 >
-> High Pixie x Ares/Oumitsunu = Sati
+> High Pixie/Narcissus x Empusa/Kusi Mitama
 >
-> High Pixie x Empusa/Kusi Mitama = Sati
+> Sarasvati/Queen Mab x Fortuna/Empusa
 >
-> Sarasvati x Fortuna/Empusa = Sati
->
-> Shiisaa x Narcissus/Queen Mab = Sati
->
-> Narcissus x Empusa/Kusi Mitama = Sati
->
-> Queen Mab x Fortuna/Empusa = Sati
->
-> Ares/Oumitsunu x Power = Sati
+> Ares/Oumitsunu x Power/High Pixie
 
 ### Virtue
 
-> Legion x Ganga = Virtue
+> Orpheus/Legion x Kusi Mitama/Ganga
 >
-> Orpheus x Sarasvati/Ganga = Virtue
+> King Frost/Black Frost x High Pixie/Sarasvati
 >
-> Black Frost x High Pixie/Sarasvati = Virtue
+> Black Frost x Fortuna/Empusa
 >
-> Legion/Orpheus x Kusi Mitama = Virute
+> Sarasvati x Orpheus/Take-Mikazuchi
 >
-> Black Frost x Fortuna/Empusa = Virtue
+> Queen Mab x Lamia
 >
-> High Pixie/Sarasvati x King Frost = Virtue
+> Oumitsunu x Shiisa/Titan/Jikokuten
+
+### Raja Naga
+
+> Black Frost/Saki Mitama x Oumitsunu
 >
-> Sarasvati x Take-Mikazuchi/King Frost = Virtue
+> Orobas x Kusi Mitama/Queen Mab
 >
-> Shiisaa x Oumitsunu = Virtue
+> Rangda x Empusa/Kusi Mitama/Narcissus/Queen Mab
 >
-> Queen Mab x Lamia = Virtue
+> Flauros x Kusi Mitama
 >
-> Oumitsunu x Titan/Jikokuten = Virtue
+> Thoth/Taraka x Empusa/Kusi Mitama
+>
+
+### Kurama Tengu
+
+> Ose x Flauros/Thoth
+>
+> Decarabia x Shiisa/Flauros
+>
+> Orobas x Hokuto Seikun
+>
+> Rangda x Thoth/Hokuto Seikun
+>
+> Parvati x Jikokuten/Hanuman
+>
+> Kikuri-Hime x Titan/Jikokuten
+>
+> Kingu x Oumitsunu/Nata Taishi/Vasuki
+>
+> Titania/Barong x Orthrus/Oumitsunu
+>
+> Narasimha x Vasuki/Ganga
+
+### Throne
+
+> Ose x Parvati/Kikuri-Hime
+>
+> Decarabia x Ganga/Parvati
+>
+> Ganga x Barong
+>
+> Parvati x Kingu/Barong
+>
+> Kikuri-Hime x Raja Naga/Kingu
+>
+> Koumokuten x Thoth/Hokuto Seikun/Narasimha/Kali
+>
+> Titania x Taraka/Kurama Tengu
+
+### Clotho
+
+> TODO
+
+### Lachesis
+
+>  TODO
+
