@@ -185,7 +185,7 @@ Bring Junpei, Yukari, Akihiko
 
 ## Atenora
 
-Grind in Atenora Section 1 with Junpei, Mitsuru, & Yukari until Aigis is level 43
+Grind in Atenora Section 1 with Junpei, Mitsuru, & Yukari until Aigis & Yukari are level 43
 
 Try to find a Raja Naga
 
@@ -203,7 +203,9 @@ Try to find a Raja Naga
 | Minotaur IV     |          |          |          | ***Weak*** | Resist   |          |          |          |        |
 | Affection Relic |          |          | Absorb   |          |          |          |          | Null     | Null   |
 
-If you don't have Raja Naga and/or Virtue try Caina
+Raja Naga can be found in Caina or Atenora
+
+Virtue can be found in Cocytus
 
 Fuse:
 
@@ -279,6 +281,8 @@ Akihiko needs to learn Ziodyne (level 53) & Yukari needs to learn Diarahan (leve
 
 Optional: Fuse something with Hama attacks if you don't have any (Virtue, Dominion, Thoth, etc)
 
+Find Kurama Tengu, Clotho, Lachesis, & Throne while grinding
+
 |                | Slash  | Strike     | Pierce | Fire   | Ice        | Elec   | Wind       | Light      | Dark       |
 | -------------- | ------ | ---------- | ------ | ------ | ---------- | ------ | ---------- | ---------- | ---------- |
 | Minotaur II    | Resist | Resist     | Resist |        | Null       |        |            |            | ***Weak*** |
@@ -293,16 +297,6 @@ Optional: Fuse something with Hama attacks if you don't have any (Virtue, Domini
 | Harmony Giant  |        | Null       | Repel  |        | ***Weak*** | Repel  | Repel      |            |            |
 | Daring Gigas   | Resist | Resist     | Resist |        |            |        | ***Weak*** |            |            |
 | Phantom Hero   |        |            |        | Absorb |            |        |            | Repel      | Repel      |
-
-Find the needed fusion materials
-
-* Kurama Tengu: Ptolomea
-
-* Clotho: Ptolomea
-
-* Lachesis: Ptolomea/Judecca
-
-* Throne: Judecca
 
 As soon as you hit 53 fuse:
 
@@ -343,8 +337,6 @@ Grind in Judecca Section 2 with Metis, Yukari, & Mitsuru
 
 Grind until you get all 3 Heart Items, fuse Odin w/ Makarakarn, fuse Titania w/ Null Elec & Metis learns Poison Arrow (level 53). Might be a good idea to get Mitsuru & Yukari their break spells (level 61 & 60)
 
-You'll also need at least Kingu (Judecca), Lachesis (Ptolomea/Judecca), & Koumokuten (Ptolomea/Judecca) or Rangda (Ptolomea)
-
 |                | Slash      | Strike     | Pierce     | Fire       | Ice        | Elec       | Wind       | Light      | Dark       |
 | -------------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- |
 | Fate Seeker    |            |            | ***Weak*** | Null       | Null       | Null       | Null       | ***Weak*** | Repel      |
@@ -360,13 +352,19 @@ You'll also need at least Kingu (Judecca), Lachesis (Ptolomea/Judecca), & Koumok
 | Mythical Gigas |            | Repel      | Null       | Absorb     |            |            |            | Null       | Null       |
 | Loss Giant     | Null       | Absorb     |            |            |            |            | Null       | Null       | Null       |
 
-At level 59 fuse:
+At level 59, run around in Ptolomea Section 2 and find Kingu, Lachesis, & Rangda. You'll also need one of the following combinations:
+
+* Thoth/Daisoujou & Koumokuten
+* Kingu & Atropos
+* Kikuri-Hime/Decarabia & Throne
+
+Fuse:
 
 > Hua Po x Kingu = Seiryu
 >
-> Lachesis x Seiryu x Koumokuten/Rangda = Anubis
+> Lachesis x Seiryu x Rangda = Anubis
 
-Grind with Anubis until it learns Makarakarn & you find the necessary personas to fuse Odin
+Grind with Anubis until it learns Makarakarn
 
 Fuse from one of the following:
 
@@ -384,7 +382,7 @@ or
 >
 > > Makarakarn
 >
-> Daisoujou x Atropos = Odin
+> Atropos x Daisoujou = Odin
 >
 > > Makarakarn
 
@@ -408,7 +406,7 @@ or
 >
 > > Makarakarn
 
-When Jatayu gets it's Heart Item fuse Titania:
+When Jatayu gets it's Heart Item fuse Titania (Decarabia/Kingu/Barong/Loki can all be found in Judecca):
 
 > Jatayu x Decarabia/Kingu/Barong/Loki = Laksmi
 >
@@ -438,7 +436,7 @@ Take Metis, Yukari, & Mitsuru
 
 ## Empyrean
 
-Find an Atropos (Judecca/Empyrean) & the necessary personas and fuse:
+Find an Atropos (Empyrean) & the necessary personas and fuse:
 
 > Atropos x Succubus = Chernobog
 >
@@ -490,7 +488,7 @@ Grind in Empyrean Section 2 with Akihiko, Yukari, & Mitsuru
 
 Grind until Yukari learns Wind Break (level 60) & Mitsuru learns Ice Break (level 61)
 
-Try to find Atropos/Hecatoncheires/Hell Biker while grinding
+Try to find Atropos/Hell Biker while grinding
 
 |                | Slash      | Strike     | Pierce | Fire       | Ice        | Elec       | Wind   | Light | Dark       |
 | -------------- | ---------- | ---------- | ------ | ---------- | ---------- | ---------- | ------ | ----- | ---------- |
@@ -523,12 +521,8 @@ Take Akihiko, Mitsuru, & Yukari
 * Fire Break then Nuke down Onnen Musha
 * Swap Yukari & Mitsuru to Act Freely to have them use their Break spells
 
-Run around Caina looking for fusion materials then fuse one of these:
+Run around Atenora Section 1 looking for fusion materials then fuse one of these:
 
-> Dominon x King Frost = Succubus
->
-> Raja Naga x Virtue = Succubus	
->
 > Koumokuten x Sati = Succubus
 >
 > Vasuki/Nata Taishi/Koumokuten x Orobas = Succubus
@@ -537,7 +531,7 @@ Run around Caina looking for fusion materials then fuse one of these:
 
 then fuse:
 
-> Succubus x Atropos/Hecatoncheires/Hell Biker = Chernobog
+> Succubus x Atropos/Hell Biker = Chernobog
 >
 > Chernobog x Titania = Laksmi
 >
@@ -624,6 +618,10 @@ This is a WIP, having a fusion calculator open during runs isn't a bad idea
 
 ### King Frost
 
+Shows up in Cocytus shuffle time 
+
+Materials best found in a mix of Malebolge & Cocytus
+
 > Oumitsunu x Legion/Orpheus/Narcissus/Queen Mab
 >
 > Shiisaa/Lamia x Empusa/Kusi Mitama
@@ -631,6 +629,10 @@ This is a WIP, having a fusion calculator open during runs isn't a bad idea
 > Flauros x Fortuna/Empusa
 
 ### Sati
+
+Shows up in Malebolge, Cocytus, & Caina shuffle times
+
+Materials best found in a mix of Malebolge & Cocytus
 
 > Legion/Orpheus x Take-Minakata/Orthrus
 >
@@ -643,6 +645,10 @@ This is a WIP, having a fusion calculator open during runs isn't a bad idea
 > Ares/Oumitsunu x Power/High Pixie
 
 ### Virtue
+
+Shows up in Cocytus shuffle time
+
+Materials best found in a mix of Malebolge & Cocytus
 
 > Orpheus/Legion x Kusi Mitama/Ganga
 >
@@ -658,6 +664,10 @@ This is a WIP, having a fusion calculator open during runs isn't a bad idea
 
 ### Raja Naga
 
+Shows up in Caina, Atenora & Ptolomea (Section 1) shuffle times
+
+Materials best found in Caina
+
 > Black Frost/Saki Mitama x Oumitsunu
 >
 > Orobas x Kusi Mitama/Queen Mab
@@ -670,6 +680,10 @@ This is a WIP, having a fusion calculator open during runs isn't a bad idea
 >
 
 ### Kurama Tengu
+
+Shows up in Atenora, Ptolomea, & Judecca (Section 1) shuffle times
+
+Materials best found in Atenora
 
 > Ose x Flauros/Thoth
 >
@@ -690,6 +704,10 @@ This is a WIP, having a fusion calculator open during runs isn't a bad idea
 > Narasimha x Vasuki/Ganga
 
 ### Throne
+
+Shows up in Ptolomea, Judecca, & Empyrean shuffle times
+
+Materials best found in Judecca (Section 1)
 
 > Ose x Parvati/Kikuri-Hime
 >
