@@ -46,7 +46,7 @@ You can contact me through [twitter](https://twitter.com/NMarkro) or discord (NM
 * The Answer has no compendium so most of your time save is going to come from adapting the fusion route on the fly based on what shuffle time personas you get
 * Generally in shuffle time: Persona >= Wands > Equipment > Money > Cup
   * Which is better between Persona & Wands is completely situational
-  * Shuffle time can forced by ending on MC's turn or finishing with an AoA
+  * Shuffle time can be forced by ending on MC's turn or finishing with an AoA
 * Grinding with party members is the way to go
   * Grinding solo only awards 43% more exp
   * Having properly leveled party members speeds up grinds & boss fights
