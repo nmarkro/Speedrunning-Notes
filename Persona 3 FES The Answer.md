@@ -45,6 +45,13 @@ Special thanks to [lil_fatkid](https://www.twitch.tv/lil_fatkid), [JangBang](htt
 * Generally in shuffle time: Persona >= Wands > Equipment > Money > Cup
   * Which is better between Persona & Wands is completely situational
   * Shuffle time can before by ending on MC's turn or finishing with an AoA
+* Grinding with party members is the way to go
+  * Grinding solo only awards 43% more exp
+  * Having properly leveled party members speeds up grinds & boss fights
+  * You probably should practice doing fights with party members and always ending on MC's turn
+* You'll want to scan 99% of enemies
+  * The other 1% are enemies with "Counter" skills that you want the party members to attack
+  * Even if you can't see the weakness of bosses, your party members can
 * Don't be afraid to use most items
   * You want to avoid using Mirrors of any kind
   * A good number of Somas & Precious Eggs are basically required for the final fights
