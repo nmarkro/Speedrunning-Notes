@@ -1,6 +1,8 @@
 # Persona 3 FES: The Answer Notes
-### By NMarkro
+### By [NMarkro](https://www.twitch.tv/nmarkro)
 Special thanks to [lil_fatkid](https://www.twitch.tv/lil_fatkid), [JangBang](https://www.twitch.tv/TheNotoriousSpeedrunning), [Iceplug](https://www.twitch.tv/iceplug), and many others.
+
+You can contact me through [twitter](https://twitter.com/NMarkro) or discord (NMarkro#7419)
 
 **TODO**: Backup fusions, shuffle time persona locations, probably more that I'm forgetting
 
