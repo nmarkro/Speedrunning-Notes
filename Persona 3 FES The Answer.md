@@ -2,37 +2,59 @@
 ### By NMarkro
 Special thanks to [lil_fatkid](https://www.twitch.tv/lil_fatkid), [JangBang](https://www.twitch.tv/TheNotoriousSpeedrunning), [Iceplug](https://www.twitch.tv/iceplug), and many others.
 
-**TODO**: Shopping trips, backup fusions, shuffle time persona locations, probably more that I'm forgetting
+**TODO**: Backup fusions, shuffle time persona locations, probably more that I'm forgetting
 
 ## Table of Contents
 
-1. [Malebolge](#malebolge)
+1. [General Info](#general-info)
+2. [Malebolge](#malebolge)
    1. [Metis](#metis)
    2. [Immortal Gigas & 3 Visceral Mayas](#immortal-gigas--3-visceral-mayas)
-2. [Cocytus](#cocytus)
+3. [Cocytus](#cocytus)
    1. [Brilliant Cyclops (& Soul Dancers)](#brilliant-cyclops--soul-dancers)
-3. [Caina](#caina)
+4. [Caina](#caina)
    1. [Raindrop Castle & 2 El Dorado Beast](#raindrop-castle--2-el-dorado-beast)
    2. [Harem Dancer & 2 Merciless Mayas](#harem-dancer--2-merciless-mayas)
-4. [Atenora](#atenora)
+5. [Atenora](#atenora)
    1. [Brave Wheel, Judgement Sword, & Ice Raven](#brave-wheel-judgement-sword--ice-raven)
    2. [Primitive Idol, Shouting Tiara, & Wrathful Book](#primitive-idol-shouting-tiara--wrathful-book)
-5. [Ptolomea](#ptolomea)
+6. [Ptolomea](#ptolomea)
    1. [Crying Table, Wondrous Magus, & Cowardly Maya](#crying-table-wondrous-magus--cowardly-maya)
    2. [Neo Minotaur](#neo-minotaur)
-6. [Judecca](#judecca)
+7. [Judecca](#judecca)
    1. [Spastic Turret & Slaughter Drives](#spastic-turret--slaughter-drives)
    2. [Conceited Maya & Jotun of Bloods](#conceited-maya--jotun-of-bloods)
-7. [Empyrean](#empyrean)
+8. [Empyrean](#empyrean)
    1. [Rebellious Cyclops & 2 Acheron Seekers](#rebellious-cyclops--2-acheron-seekers)
    2. [Tenjin Musha, Kaiden Musha, & Onnen Musha](#tenjin-musha-kaiden-musha--onnen-musha)
    3. [??? (Protagonist)](#-protagonist)
-8. [Team Fights & Final Boss](#team-fights--final-boss)
+9. [Team Fights & Final Boss](#team-fights--final-boss)
    1. [Akihiko & Ken](#akihiko--ken)
    2. [Koromaru & Junpei](#koromaru--junpei)
    3. [Yukari & Mitsuru](#yukari--mitsuru)
    4. [Erebus](#erebus)
-9. [Backup Fusions](#backup-fusions)
+10. [Backup Fusions](#backup-fusions)
+
+------
+
+## General Info
+
+* Voices off is apparently [faster](http://ch.nicovideo.jp/calomates/blomaga/ar642669)
+* I don't use Tactics Memory, but it's personal preference
+* The Answer has no compendium so most of your time save is going to come from adapting the fusion route on the fly based on what shuffle time personas you get
+* Generally in shuffle time: Persona >= Wands > Equipment > Money > Cup
+  * Which is better between Persona & Wands is completely situational
+  * Shuffle time can before by ending on MC's turn or finishing with an AoA
+* Don't be afraid to use most items
+  * You want to avoid using Mirrors of any kind
+  * A good number of Somas & Precious Eggs are basically required for the final fights
+  * Bead Chains are really good for a quick "Oh shit" heal
+* Other than the necessary accessories & 1 routed armor upgrade shopping & equipment upgrades are up to you
+  * You want a good number of "Dis-" items & Me Patra Gems
+  * You'll need an increasingly large amount of Revival Beads later on
+  * Medical Powders are really good for conserving SP during grinds
+* Official Speedrun.com™ sanctioned timing starts on Power On and ends on the final cutscene skip before the credits
+  * [Burn leaderboards](https://twitter.com/AppleCiderRTA/status/1023989914701127680)
 
 ------
 
@@ -142,7 +164,7 @@ Fuse:
 >
 > Make sure to learn Virus Breath over Growth 2
 
-If you don't have the materials run around in Cocytus for a bit
+If you don't have the materials run around in Malebolge for a bit
 
 Bring Junpei, Yukari, Akihiko
 
@@ -156,7 +178,7 @@ Bring Junpei, Yukari, Akihiko
 
 Grind in Atenora Section 1 with Junpei, Mitsuru, & Yukari until Aigis is level 43
 
-Try to find Raja Naga
+Try to find a Raja Naga
 
 |                 | Slash    | Strike   | Pierce   | Fire     | Ice      | Elec     | Wind     | Light    | Dark   |
 | --------------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- | ------ |
@@ -171,6 +193,8 @@ Try to find Raja Naga
 | Flowing Sand    | ***Weak*** | ***Weak*** | ***Weak*** | Repel    | Repel    | Repel    | Repel    |          |        |
 | Minotaur IV     |          |          |          | ***Weak*** | Resist   |          |          |          |        |
 | Affection Relic |          |          | Absorb   |          |          |          |          | Null     | Null   |
+
+If you don't have Raja Naga and/or Virtue try Caina
 
 Fuse:
 
@@ -246,8 +270,6 @@ Akihiko needs to learn Ziodyne (level 53) & Yukari needs to learn Diarahan (leve
 
 Optional: Fuse something with Hama attacks if you don't have any (Virtue, Dominion, Thoth, etc)
 
-Find Kurama Tengu, Throne, Clotho, Lachesis and other fusion materials
-
 |                | Slash  | Strike     | Pierce | Fire   | Ice        | Elec   | Wind       | Light      | Dark       |
 | -------------- | ------ | ---------- | ------ | ------ | ---------- | ------ | ---------- | ---------- | ---------- |
 | Minotaur II    | Resist | Resist     | Resist |        | Null       |        |            |            | ***Weak*** |
@@ -263,6 +285,16 @@ Find Kurama Tengu, Throne, Clotho, Lachesis and other fusion materials
 | Daring Gigas   | Resist | Resist     | Resist |        |            |        | ***Weak*** |            |            |
 | Phantom Hero   |        |            |        | Absorb |            |        |            | Repel      | Repel      |
 
+Find the needed fusion materials
+
+* Kurama Tengu: Ptolomea
+
+* Clotho: Ptolomea
+
+* Lachesis: Ptolomea/Judecca
+
+* Throne: Judecca
+
 As soon as you hit 53 fuse:
 
 > Seiryu x [Kurama Tengu](#kurama-tengu) x Jikokuten/Virtue/Hanuman/Dominion/Ose/Decarabia = Surt (Heart Item) 
@@ -277,7 +309,7 @@ As soon as you hit 53 fuse:
 
 When you hit level 55 fuse:
 
-> [Clotho](#clotho) x [Lachesis](#lachesis) x Orobas/Nata Taishi/Taraka/Rangda/Thoth/Narasihma/Barong/Vasuki = Jatayu (Heart Item)
+> Clotho x Lachesis x Orobas/Nata Taishi/Taraka/Rangda/Thoth/Narasihma/Barong/Vasuki = Jatayu (Heart Item)
 
 Buy 1 Ergo Armor, 3 Kaiser Armor, 1 Titanium Legs, & 3 Assassin's Shoes
 
@@ -302,7 +334,7 @@ Grind in Judecca Section 2 with Metis, Yukari, & Mitsuru
 
 Grind until you get all 3 Heart Items, fuse Odin w/ Makarakarn, fuse Titania w/ Null Elec & Metis learns Poison Arrow (level 53). Might be a good idea to get Mitsuru & Yukari their break spells (level 61 & 60)
 
-You'll also need at least Kingu, Lachesis (in Ptolomea), & Koumokuten/Rangda
+You'll also need at least Kingu (Judecca), Lachesis (Ptolomea/Judecca), & Koumokuten (Ptolomea/Judecca) or Rangda (Ptolomea)
 
 |                | Slash      | Strike     | Pierce     | Fire       | Ice        | Elec       | Wind       | Light      | Dark       |
 | -------------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- |
@@ -323,9 +355,11 @@ At level 59 fuse:
 
 > Hua Po x Kingu = Seiryu
 >
-> [Lachesis](#lachesis) x Seiryu x Koumokuten/Rangda = Anubis
+> Lachesis x Seiryu x Koumokuten/Rangda = Anubis
 
-Grind with Anubis until it learns Makarakarn then fuse Odin from one of the following:
+Grind with Anubis until it learns Makarakarn & you find the necessary personas to fuse Odin
+
+Fuse from one of the following:
 
 > Thoth/Daisoujou x Anubis = Raphael
 >
@@ -395,7 +429,7 @@ Take Metis, Yukari, & Mitsuru
 
 ## Empyrean
 
-Gather the necessary personas and fuse:
+Find an Atropos (Judecca/Empyrean) & the necessary personas and fuse:
 
 > Atropos x Succubus = Chernobog
 >
@@ -446,6 +480,8 @@ Equip Null Wind accessory on Aigis
 Grind in Empyrean Section 2 with Akihiko, Yukari, & Mitsuru
 
 Grind until Yukari learns Wind Break (level 60) & Mitsuru learns Ice Break (level 61)
+
+Try to find Atropos/Hecatoncheires/Hell Biker while grinding
 
 |                | Slash      | Strike     | Pierce | Fire       | Ice        | Elec       | Wind   | Light | Dark       |
 | -------------- | ---------- | ---------- | ------ | ---------- | ---------- | ---------- | ------ | ----- | ---------- |
@@ -502,13 +538,15 @@ then fuse:
 
 Continue grinding in the last block (same shadows as before) with Yukari, Akihiko, & Mitsuru 
 
-Grind until Aigis is level 72, Laksmi is at least level 60 (learn over any recovery skills inherited)
+Grind until Aigis is level 72 & Bishamonten, Odin, & Laksmi all learn their skills
 
 Learn Arms Master over Diarahan on Bishamonten
 
 Try to get to floor 25 as many times as possible for ultimate weapon chests 
 
 After grinding, take any accessories off of all party members & only bring Yukari
+
+You will probably need 2-3 Somas and a ton of Revival Beads for this fight
 
 Equip Null Wind accessory on Aigis, Wind Amp on Yukari
 
@@ -522,23 +560,29 @@ Equip Null Wind accessory on Aigis, Wind Amp on Yukari
 
 ## Team Fights & Final Boss
 
+Buy Thunder Bracers & Ice Bracers and restock on items
+
+Buy any Dekunda Gems, Precious Eggs, Magic Mirrors, & Bead/Bead Chains
+
 Equip Aigis with Elec Boost accessory, Metis with Null Elec accessory
 
 ### Akihiko & Ken
 
 * Scan Akihiko & set Metis to Knockdown
-* Swap to Odin and use Makarakarn (forces Akihiko to Power Charge -> BigDick Strike Attack)
+* Swap to Odin and use Makarakarn (forces Akihiko to Power Charge -> Gigantic Fist)
 * Switch to Thor before Akihiko's attack to null it
 * Revive/Ziodyne on Thor turns
 * Thunder Reign/Ragnarok on non-Thor turns
 * Reapply Makarakarn as needed (Ken is a dick sometimes)
+* Don't revive Metis after Ken dies, High Counter does Big™ damage
 
 Equip Ice Boost accessory on Aigis, Null Fire on Metis
 
 ### Koromaru & Junpei
 
 * Stay on Laksmi and spam Bufudyne
-* Swap to Bishamonten to heal/use items
+* Swap to Bishamonten to use items
+* Don't bother reviving Metis
 * Use Dekunda gems if Aigis is Fire Broken
 * Focus down Koromaru first since he has lower defense
 
@@ -546,24 +590,28 @@ Equip Null Wind accessory on Aigis
 
 ### Yukari & Mitsuru
 
+* Don't bother reviving Metis
 * Stay on Bishamonten and nuke down Yukari with Ragnarok 
 * Spam Ragnarok on Mitsuru until right before phase change (half HP)
-* Swap to Laksmi and Ice Break -> Bufudyne x3 -> Ice Break -> ...
+* Swap to Laksmi and Ice Break -> Bufudyne x3 -> Ice Break -> ... or Rush
 
 Take Yukari, Akihiko, Mitsuru (in that order)
 
-Equip Aigis with Elec Boost accessory, Yukari with Wind Amp, Akihiko with Elec Amp, Mitsuru with Ice Amp
+Equip Aigis with Null Wind accessory, Yukari with Null Elec, Akihiko with Elec Amp, Mitsuru with Ice Amp
 
-Equip any ultimate weapons if you haven't already
+Equip any ultimate weapons & best armor if you haven't already
 
 ### Erebus
 
 * Put Yukari & Akihiko on Heal/Support, Mitsuru on Act Freely
-* Keep Makarakarn up and Thunder Reign on free turns
-* Swap Akihiko & Yukari to Full Assault during Dark Embrace
+* Keep Magic Mirrors/Makarakarn up and Thunder Reign/use items on free turns
+* Aigis/Yukari being stripped of Makarakarn is mostly fine, you'll definitely want to reapply if Mitsuru/Akihiko lose mirrors or if Aigis & Yukari both lose mirrors
+* Swap Akihiko & Yukari to Full Assault during Dark Embrace, Use Ragnarok over Thunder Reign during this phase
 * Don't get crit lol
 
 ## Backup Fusions
+
+This is a WIP, having a fusion calculator open during runs isn't a bad idea
 
 ### King Frost
 
@@ -647,12 +695,4 @@ Equip any ultimate weapons if you haven't already
 > Koumokuten x Thoth/Hokuto Seikun/Narasimha/Kali
 >
 > Titania x Taraka/Kurama Tengu
-
-### Clotho
-
-> TODO
-
-### Lachesis
-
->  TODO
 
