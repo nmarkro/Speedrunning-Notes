@@ -75,7 +75,7 @@ You can contact me through [twitter](https://twitter.com/NMarkro) or discord (NM
 
 Bring Yukari, Ken, Metis
 
-Get Hua Po, Narcissus, & Titan before fighting the Gigas & Mayas
+Get Hua Po, Narcissus, Empusa, & Titan before fighting the Gigas & Mayas
 
 |                | Slash  | Strike | Pierce | Fire     | Ice      | Elec     | Wind     | Light    | Dark     |
 | :------------- | :----- | ------ | ------ | -------- | -------- | -------- | -------- | -------- | -------- |
@@ -135,9 +135,8 @@ Fuse:
 >
 > > Bufula
 > >
-> > Mudo
+> > (Mudo is really nice)
 >
-> also fuse Sati, King Frost, and/or Virtue if you can
 
 ## Caina
 
@@ -152,7 +151,7 @@ Bring Mitsuru, Yukari, & Junpei
 - Turn 1 go for the Bufulas on the Beasts
 - Spam Eerie Sound and Bufula when you can
 
-Grind in Section 2 with Junpei, Yukari, & Akihiko until Aigis is level 36
+Grind in Section 2 with Junpei, Yukari, & Mitsuru until Aigis is level 36
 
 |                  | Slash  | Strike | Pierce | Fire     | Ice      | Elec     | Wind     | Light | Dark  |
 | ---------------- | ------ | ------ | ------ | -------- | -------- | -------- | -------- | ----- | ----- |
@@ -235,14 +234,14 @@ Bring Junpei, Mitsuru, Yukari
 
 Bring Junpei, Mitsuru, Akihiko
 
-Make sure Mothman has Ziodyne, if not get it
+*Make sure Mothman has Ziodyne, if not get it*
 
 ### Primitive Idol, Shouting Tiara, & Wrathful Book
 
 - Start with Mothman
 - Set everyone to Knockdown, Junpei to Heal/Support
 - Scan the Idol -> Tiara -> Book
-- Ziodyne the Idol and Bufula the Tiara turn 1
+- Turn 1: Ziodyne the Idol, Bufula the Tiara, Agidyne x2 on the Book
 - After Stagnant Air, swap Junpei to Knockdown, Agidyne the book, and Infuriate
 - Give exp to Succubus
 
