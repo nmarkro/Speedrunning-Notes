@@ -306,7 +306,7 @@ As soon as you hit 53 fuse:
 > >
 > > Masukunda
 
-> [Throne](Throne) x Saki Mitama/Thoth/Hokuto Seikun/Titania = Thor (Heart Item)
+> [Throne](#throne) x Saki Mitama/Thoth/Hokuto Seikun/Titania = Thor (Heart Item)
 >
 > > Mahamaon
 
