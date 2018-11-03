@@ -63,7 +63,7 @@ You can contact me through [twitter](https://twitter.com/NMarkro) or discord (NM
   * You'll need an increasingly large amount of Revival Beads later on
   * Medical Powders are really good for conserving SP during grinds
 * Official Speedrun.com™ sanctioned timing starts on Power On and ends on the final cutscene skip before the credits
-  * [Burn leaderboards](https://twitter.com/AppleCiderRTA/status/1023989914701127680)
+  * [Burn leaderboards](https://i.imgur.com/cnMpVSv.png)
 
 ------
 
