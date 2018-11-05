@@ -312,6 +312,8 @@ As soon as you hit 53 fuse:
 When you hit level 55 fuse:
 
 > Clotho x Lachesis x Orobas/Nata Taishi/Taraka/Rangda/Thoth/Narasihma/Barong/Vasuki = Jatayu (Heart Item)
+>
+> Make sure to learn over Growth 3 when Jatayu hits 58
 
 Buy 1 Ergo Armor, 3 Kaiser Armor, 1 Titanium Legs, & 3 Assassin's Shoes
 
@@ -332,9 +334,11 @@ Bring Akihiko, Junpei, & Yukari
 
 Take the armor you just gave to Junpei and give it to Mitsuru
 
-Grind in Judecca Section 2 with Metis, Yukari, & Mitsuru
+Grind in Judecca Section 2 with Yukari & Mitsuru
 
-Grind until you get all 3 Heart Items, fuse Odin w/ Makarakarn, fuse Titania w/ Null Elec & Metis learns Poison Arrow (level 53). Might be a good idea to get Mitsuru & Yukari their break spells (level 61 & 60)
+Grind until you get Surt's, Thor's, & Jatayu's Heart Items, fuse Odin w/ Makarakarn, & get both Mitsuru & Yukari their break spells (level 61 & 60)
+
+From here on you'll need to grab a Laksmi from shuffle time at some point
 
 |                | Slash      | Strike     | Pierce     | Fire       | Ice        | Elec       | Wind       | Light      | Dark       |
 | -------------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- |
@@ -351,17 +355,27 @@ Grind until you get all 3 Heart Items, fuse Odin w/ Makarakarn, fuse Titania w/ 
 | Mythical Gigas |            | Repel      | Null       | Absorb     |            |            |            | Null       | Null       |
 | Loss Giant     | Null       | Absorb     |            |            |            |            | Null       | Null       | Null       |
 
-At level 59, run around in Ptolomea Section 2 and find Kingu, Lachesis, & Rangda. You'll also need one of the following combinations:
+At level 59, run around in Ptolomea Section 2 and find Lachesis & Atropos. You'll also need one of the following combinations:
 
 * Thoth/Daisoujou & Koumokuten
 * Kingu & Atropos
-* Kikuri-Hime/Decarabia & Throne
+* Decarabia & Throne
+
+If you don't have a Oumitsunu or Nata Taishi go run around in Caina until you find one 
 
 Fuse:
 
-> Hua Po x Kingu = Seiryu
+> Atropos x Succubus = Chernobog (Heart Item)
 >
-> Lachesis x Seiryu x Rangda = Anubis
+> ​	No Agidyne
+>
+> Mothman x Oumitsunu/Nata Taishi = Seiryu
+>
+> ​	Fire Break
+>
+> Lachesis x Seiryu x Hua Po = Anubis
+>
+> ​	Fire Break
 
 Grind with Anubis until it learns Makarakarn
 
@@ -370,50 +384,40 @@ Fuse from one of the following:
 > Thoth/Daisoujou x Anubis = Raphael
 >
 > > Makarakarn
+> >
+> > Fire Break
 >
 > Koumokuten x Raphael = Odin
 >
 > > Makarakarn
+> >
+> > Fire Break
 
 or
 
 > Kingu x Anubis = Daisoujou
 >
 > > Makarakarn
+> >
+> > Fire Break
 >
 > Atropos x Daisoujou = Odin
 >
 > > Makarakarn
+> >
+> > Fire Break
 
 or
 
 > Decarabia x Anubis = Ganesha
 >
 > > Makarakarn
+> >
+> > Fire Break
 >
 > Throne x Ganesha = Odin
 >
 > > Makarakarn
-
-or
-
-> Kikuri-Hime x Anubis = Laksmi
->
-> > Makarakarn
->
-> Throne x Laksmi = Odin
->
-> > Makarakarn
-
-When Jatayu gets it's Heart Item fuse Titania (Decarabia/Kingu/Barong/Loki can all be found in Judecca):
-
-> Jatayu x Decarabia/Kingu/Barong/Loki = Laksmi
->
-> > Null Elec
->
-> Laksmi x Mothman = Titania
->
-> > Null Elec
 > >
 > > Fire Break
 
@@ -423,24 +427,27 @@ Equip
 * Yukari with Lightning Gloves
 * Mitsuru with Blazing Flame 
 
-Take Metis, Yukari, & Mitsuru
+Take Yukari & Mitsuru
 
 ### Conceited Maya & Jotun of Bloods
 
-* Set everyone to Act Freely, Yukari to Heal/Support
-* Mind Charge then wait until Maya HP is right above 1500 (500 damage dealt)
-* Swap to Surt and use Ragnarok
-* Set Metis to target one of the Jotuns
-* Stay on Odin and use Makarakarn/Magic Mirrors, revive Yukari if needed
+* Set everyone to Act Freely
+* Ziodyne on Thor until the Maya summons
+* Swap to Yukari & Mitsuru to target the Maya
+* Stay on Odin and use Makarakarn/Magic Mirrors
+* Swap Yukari to Heal/Support if you need healing
+* After the Maya dies put Mitsuru on Act Freely
+* Keep Makarakarn up & use Fire Break on each Jotun when you get a chance
+* Pray for Maragidynes, Mabufudynes, and Magarudynes
+
+Drop all party members and enter the last block of Judecca solo
+
+Grind until you get Chernobog's Heart Item & find Parvati/Kikuri-Hime from shuffle time (same shadows as last block)
 
 ## Empyrean
 
 Find an Atropos (Empyrean) & the necessary personas and fuse:
 
-> Atropos x Succubus = Chernobog
->
-> > No Agidyne
->
 > Chernobog x Surt x Fortuna/Narcissus/Empusa/Queen Mab/Kusi Mitama/Clotho/Saki Mitama/Lachesis = Bishamonten
 >
 > > Null Slash
@@ -448,46 +455,24 @@ Find an Atropos (Empyrean) & the necessary personas and fuse:
 > > Ragnarok
 > >
 > > Fire Boost
+>
+> Make sure to learn something over Diarahan before the Yukari & Mitsuru fight
 
-Give Mitsuru & Yukari back their Amp Bracers
-
-Grind in Empyrean with Akihiko, Mitsuru, & Yukari until Bishamonten learns Fire Amp
-
-|                 | Slash  | Strike     | Pierce | Fire       | Ice        | Elec       | Wind       | Light  | Dark       |
-| --------------- | ------ | ---------- | ------ | ---------- | ---------- | ---------- | ---------- | ------ | ---------- |
-| Hallowed Turret | Repel  | Repel      | Repel  |            |            | ***Weak*** |            | Resist | Resist     |
-| Grand Magus     |        | Null       |        | ***Weak*** | Repel      |            |            | Repel  | Repel      |
-| Battle Wheel    |        |            |        |            |            |            |            | Null   |            |
-| Amenti Raven    |        |            |        | Repel      |            | ***Weak*** | Resist     |        |            |
-| Change Relic    |        |            |        |            |            |            | Null       | Null   | Null       |
-| Natural Dancer  |        |            |        |            |            |            | Null       | Null   | Null       |
-| Amorous Snake   | Resist | Resist     | Resist | Absorb     | ***Weak*** |            |            | Repel  | ***Weak*** |
-| Void Giant      | Absorb | Absorb     | Absorb |            |            |            |            | Repel  | Repel      |
-| White Sigil     | Repel  |            |        | ***Weak*** | Absorb     |            |            | Repel  |            |
-| Gracious Cupid  |        | ***Weak*** |        |            | Null       |            |            |        |            |
-| Intrepid Knight | Resist |            | Resist |            |            | ***Weak*** | Absorb     | Null   | Null       |
-| Sleeping Table  | Resist | Null       | Resist | Resist     |            |            |            | Null   | Null       |
-| King Castle     |        | Repel      |        |            |            | Absorb     | ***Weak*** | Resist | Resist     |
-| Fanatic Tower   |        |            |        | Repel      | Repel      | Repel      |            | Null   | Null       |
-| Grudge Tower    | Resist |            | Resist | Absorb     |            | Repel      |            | Null   | Repel      |
-
-Take Akihiko & Junpei or go Solo
-
-Equip Null Wind accessory on Aigis
+Go solo & equip Null Slash accessory on Aigis
 
 ### Rebellious Cyclops & 2 Acheron Seekers
 
-* Set everyone to Full Assault
 * Stay on Bishamonten and spam Maragidyne/Ragnarok
-* Heal as needed but don't bother reviving the party
+* Heal as needed with Diarahan
 * Try to take out the Cyclops before the last Seeker
 * Throw Attack Mirror after Power Charge
+* Finish with Bishamonten to learn Fire Amp
 
-Grind in Empyrean Section 2 with Akihiko, Yukari, & Mitsuru
+Grind in Empyrean Section 2 alone
 
-Grind until Yukari learns Wind Break (level 60) & Mitsuru learns Ice Break (level 61)
+Grind until Laksmi (which you should have found by now) learns Resist Fire & Null Dark, Odin learns Thunder Reign & Spell Master, Bishamonten learns something over Diarahan.
 
-Try to find Atropos/Hell Biker while grinding
+Aigis should finish this grind at like 72ish
 
 |                | Slash      | Strike     | Pierce | Fire       | Ice        | Elec       | Wind   | Light | Dark       |
 | -------------- | ---------- | ---------- | ------ | ---------- | ---------- | ---------- | ------ | ----- | ---------- |
@@ -511,42 +496,26 @@ Try to find Atropos/Hell Biker while grinding
 
 Take Akihiko, Mitsuru, & Yukari
 
+Give Mitsuru & Yukari their Amp bracers back, equip Null Slash on Aigis
+
 ### Tenjin Musha, Kaiden Musha, & Onnen Musha
 
-* Put everyone on Heal/Support, swap Mitsuru to Same Target
+* Put everyone on Heal/Support, swap Mitsuru to Assign Target to whatever you are nuking down
 * Don't switch off Bishamonten
 * Nuke down Kaiden Musha with Ragnarok
 * Nuke down Tenjin Musha with Ragnarok
 * Fire Break then Nuke down Onnen Musha
 * Swap Yukari & Mitsuru to Act Freely to have them use their Break spells
 
-Run around Atenora Section 1 looking for fusion materials then fuse one of these:
+Fuse:
 
-> Koumokuten x Sati = Succubus
+> Laksmi x Jatayu x Parvati/Kikuri-Hime = Yurlungur
 >
-> Vasuki/Nata Taishi/Koumokuten x Orobas = Succubus
+> ​	Resist Fire
 >
-> Nata Taishi/Vasuki/Oumitsunu/Koumokuten x Rangda = Succubus 
+> ​	Null Dark
 
-then fuse:
-
-> Succubus x Atropos/Hell Biker = Chernobog
->
-> Chernobog x Titania = Laksmi
->
-> > Null Slash
-> >
-> > Ice Amp
-
-Continue grinding in the last block (same shadows as before) with Yukari, Akihiko, & Mitsuru 
-
-Grind until Aigis is level 72 & Bishamonten, Odin, & Laksmi all learn their skills
-
-Learn Arms Master over Diarahan on Bishamonten
-
-Try to get to floor 25 as many times as possible for ultimate weapon chests 
-
-After grinding, take any accessories off of all party members & only bring Yukari
+Take any accessories off of all party members & only bring Yukari
 
 You will probably need 2-3 Somas and a ton of Revival Beads for this fight
 
@@ -562,40 +531,36 @@ Equip Null Wind accessory on Aigis, Wind Amp on Yukari
 
 ## Team Fights & Final Boss
 
-Buy Thunder Bracers & Ice Bracers and restock on items
+Buy Thunder Bracers and restock on items
 
-Buy any Dekunda Gems, Precious Eggs, Magic Mirrors, & Bead/Bead Chains
+Buy any Precious Eggs, Magic Mirrors, & Bead/Bead Chains
 
-Equip Aigis with Elec Boost accessory, Metis with Null Elec accessory
+Equip Aigis with Thunder Bracers, Metis with Null Elec accessory
 
 ### Akihiko & Ken
 
 * Scan Akihiko & set Metis to Knockdown
 * Swap to Odin and use Makarakarn (forces Akihiko to Power Charge -> Gigantic Fist)
 * Switch to Thor before Akihiko's attack to null it
-* Revive/Ziodyne on Thor turns
+* Ziodyne on Thor turns
 * Thunder Reign/Ragnarok on non-Thor turns
 * Reapply Makarakarn as needed (Ken is a dick sometimes)
-* Don't revive Metis after Ken dies, High Counter does Big™ damage
 
-Equip Ice Boost accessory on Aigis, Null Fire on Metis
+Equip Null Slash accessory on Aigis, Null Fire on Metis
 
 ### Koromaru & Junpei
 
-* Stay on Laksmi and spam Bufudyne
-* Swap to Bishamonten to use items
+* Stay on Yurlungur and spam Mabufudyne
 * Don't bother reviving Metis
-* Use Dekunda gems if Aigis is Fire Broken
-* Focus down Koromaru first since he has lower defense
 
-Equip Null Wind accessory on Aigis
+Equip Null Slash accessory on Aigis
 
 ### Yukari & Mitsuru
 
 * Don't bother reviving Metis
 * Stay on Bishamonten and nuke down Yukari with Ragnarok 
 * Spam Ragnarok on Mitsuru until right before phase change (half HP)
-* Swap to Laksmi and Ice Break -> Bufudyne x3 -> Ice Break -> ... or Rush
+* Swap to Yurlungur and rush
 
 Take Yukari, Akihiko, Mitsuru (in that order)
 
