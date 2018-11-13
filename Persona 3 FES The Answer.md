@@ -450,7 +450,7 @@ Find an Atropos (Empyrean) & the necessary personas and fuse:
 
 > Chernobog x Surt x Fortuna/Narcissus/Empusa/Queen Mab/Kusi Mitama/Clotho/Saki Mitama/Lachesis = Bishamonten
 >
-> > Null Slash
+> > Null Wind
 > >
 > > Ragnarok
 > >
