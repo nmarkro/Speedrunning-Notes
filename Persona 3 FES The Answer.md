@@ -404,6 +404,48 @@ Take Yukari & Mitsuru
 
 ## Empyrean
 
+Fuse Odin from one of the following:
+
+> Thoth/Daisoujou x Anubis = Raphael
+>
+> > Makarakarn
+> >
+> > Fire Break
+>
+> Koumokuten x Raphael = Odin
+>
+> > Makarakarn
+> >
+> > Fire Break
+
+or
+
+> Kingu x Anubis = Daisoujou
+>
+> > Makarakarn
+> >
+> > Fire Break
+>
+> Atropos x Daisoujou = Odin
+>
+> > Makarakarn
+> >
+> > Fire Break
+
+or
+
+> Decarabia x Anubis = Ganesha
+>
+> > Makarakarn
+> >
+> > Fire Break
+>
+> Throne x Ganesha = Odin
+>
+> > Makarakarn
+> >
+> > Fire Break
+
 Grind in Empyrean section 1 solo until Odin learns all his skills & you get Chernobog's heart item
 
 Look for Parvati/Kikuri-Hime
