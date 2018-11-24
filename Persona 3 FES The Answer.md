@@ -41,28 +41,52 @@ You can contact me through [twitter](https://twitter.com/NMarkro) or discord (NM
 
 ## General Info
 
-* Voices off is apparently [faster](http://ch.nicovideo.jp/calomates/blomaga/ar642669)
+* Fatkid has his own [route](https://pastebin.com/tA9ctBgw) that is probably faster but uses Ken & Metis so it sucks
+
+* Voices on w/ Auto Advance is apparently faster (thanks fatkid)
+
 * I don't use Tactics Memory, but it's personal preference
+
 * The Answer has no compendium so most of your time save is going to come from adapting the fusion route on the fly based on what shuffle time personas you get
-* Generally in shuffle time: Persona >= Wands > Equipment > Money > Cup
+
+* Generally in shuffle time: Persona >= Wands > Equipment
   * Which is better between Persona & Wands is completely situational
   * Shuffle time can be forced by ending on MC's turn or finishing with an AoA
-* Grinding with party members is the way to go
-  * Grinding solo only awards 43% more exp
-  * Having properly leveled party members speeds up grinds & boss fights
+  * Money & Cup are basically useless
+
   * You should probably practice doing fights with party members and always ending on MC's turn
-* You'll want to scan 99% of enemies
+
+* You'll want to scan 99% of enemies & bosses
   * The other 1% are enemies with "Counter" skills that you want the party members to attack
   * Even if you can't see the weakness of bosses, your party members can
+
 * Don't be afraid to use most items
   * You want to avoid using Mirrors of any kind
-  * A good number of Somas & Precious Eggs are basically required for the final fights
+  * A good number of Somas & Precious Eggs are basically required for the final fights but don't be too stingy with them
   * Bead Chains are really good for a quick "Oh shit" heal
+
 * Other than the necessary accessories & 1 routed armor upgrade shopping & equipment upgrades are up to you
   * You want a good number of "Dis-" items & Me Patra Gems
   * You'll need an increasingly large amount of Revival Beads later on
   * Medical Powders are really good for conserving SP during grinds
+
+* There are 3 methods of getting shadows to turn around
+
+  * The fastest way is to climb stairs after aggroing it
+  * The 2nd fastest way is to run far enough away to deaggro (far enough that it doesn't show up on the minimap)
+  * The absolute slowest way is to open and close the triangle menu before aggroing them
+    * Avoid doing this whenever possible (unless you have to menu anyways)
+
+* Quick inputs during battle that are useful
+
+  * L1: Brings up scan
+  * R1: Brings up turn order
+  * Square: Pass turn
+  * Circle: Jump to Basic Attack in menu
+  * Circle -> Down -> X: Quick open skill menu
+
 * Official Speedrun.com™ sanctioned timing starts on Power On and ends on the final cutscene skip before the credits
+
   * [Burn leaderboards](https://i.imgur.com/cnMpVSv.png)
 
 ------
@@ -135,7 +159,7 @@ Fuse:
 >
 > > Bufula
 > >
-> > (Mudo is really nice)
+> > Mudo
 >
 
 ## Caina
@@ -344,6 +368,32 @@ Find/fuse another Kurama Tengu and get Growth 2 on him
 
 From here on you'll need to grab a Laksmi from shuffle time at some point
 
+At level 59, run around in Ptolomea Section 2 and find Lachesis & Atropos. You'll also need one of the following combinations:
+
+- Thoth/Daisoujou & Koumokuten
+- Kingu & Atropos
+- Decarabia & Throne
+
+If you don't have a Oumitsunu or Nata Taishi go run around in Caina until you find one 
+
+Fuse:
+
+> Kurama Tengu x Narasimha/Kali/Ubelluris/Hecatoncheires/Hell Biker = Atropos
+>
+> > Growth 2
+>
+> Atropos x Succubus = Chernobog (Heart Item)
+>
+> > Growth 2
+
+> Mothman x Oumitsunu/Nata Taishi = Seiryu
+>
+> > Fire Break
+>
+> Lachesis x Seiryu x Hua Po = Anubis
+>
+> > Fire Break
+
 |                | Slash      | Strike     | Pierce     | Fire       | Ice        | Elec       | Wind       | Light      | Dark       |
 | -------------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- |
 | Fate Seeker    |            |            | ***Weak*** | Null       | Null       | Null       | Null       | ***Weak*** | Repel      |
@@ -358,32 +408,6 @@ From here on you'll need to grab a Laksmi from shuffle time at some point
 | Carnal Snake   |            |            |            |            | ***Weak*** |            | Null       |            |            |
 | Mythical Gigas |            | Repel      | Null       | Absorb     |            |            |            | Null       | Null       |
 | Loss Giant     | Null       | Absorb     |            |            |            |            | Null       | Null       | Null       |
-
-At level 59, run around in Ptolomea Section 2 and find Lachesis & Atropos. You'll also need one of the following combinations:
-
-* Thoth/Daisoujou & Koumokuten
-* Kingu & Atropos
-* Decarabia & Throne
-
-If you don't have a Oumitsunu or Nata Taishi go run around in Caina until you find one 
-
-Fuse:
-
-> Kurama Tengu x Narasimha/Kali/Ubelluris/Hecatoncheires/Hell Biker = Atropos
->
-> > Growth 2
->
-> Atropos x Succubus = Chernobog (Heart Item)
->
-> > Growth 2
->
-> Mothman x Oumitsunu/Nata Taishi = Seiryu
->
-> > Fire Break
->
-> Lachesis x Seiryu x Hua Po = Anubis
->
-> > Fire Break
 
 Equip 
 
@@ -448,7 +472,7 @@ or
 
 Grind in Empyrean section 1 solo until Odin learns all his skills & you get Chernobog's heart item
 
-Look for Parvati/Kikuri-Hime
+Try to get Parvati/Kikuri-Hime
 
 |                 | Slash  | Strike     | Pierce | Fire       | Ice        | Elec       | Wind       | Light  | Dark       |
 | --------------- | ------ | ---------- | ------ | ---------- | ---------- | ---------- | ---------- | ------ | ---------- |
@@ -537,7 +561,7 @@ Fuse:
 > >
 > > Null Dark
 
-Take any accessories off of all party members & only bring Yukari
+Only bring Yukari
 
 Buy Thunder Bracers and restock on items
 
@@ -557,7 +581,7 @@ Equip Null Wind accessory on Aigis, Wind Amp on Yukari
 
 ## Team Fights & Final Boss
 
-Equip Aigis with Thunder Bracers, Metis with Null Elec accessory
+Equip Aigis with Thunder Bracers
 
 ### Akihiko & Ken
 
@@ -581,7 +605,7 @@ Equip Null Slash accessory on Aigis
 * Don't bother reviving Metis
 * Stay on Bishamonten and nuke down Yukari with Ragnarok 
 * Spam Ragnarok on Mitsuru until right before phase change (half HP)
-* Swap to Yurlungur and rush
+* Swap to Yurlungur and press triangle
 
 Take Yukari, Akihiko, Mitsuru (in that order)
 
@@ -594,7 +618,8 @@ Equip any ultimate weapons & best armor if you haven't already
 * Put Yukari & Akihiko on Heal/Support, Mitsuru on Act Freely
 * Keep Magic Mirrors/Makarakarn up and Thunder Reign/use items on free turns
 * Aigis/Yukari being stripped of Makarakarn is mostly fine, you'll definitely want to reapply if Mitsuru/Akihiko lose mirrors or if both Aigis & Yukari both lose mirrors
-* Swap Akihiko & Yukari to Full Assault during Dark Embrace, Use Ragnarok over Thunder Reign during this phase
+* Swap everyone to Full Assault during Dark Embrace, Use Ragnarok over Thunder Reign during this phase
+* Only reapply Makarakarn during Dark Embrace if someone misses, otherwise Erebus shouldn't even get his 2nd turn during Dark Embrace
 * Don't get crit lol
 
 ## Backup Fusions
