@@ -42,49 +42,36 @@ You can contact me through [twitter](https://twitter.com/NMarkro) or discord (NM
 ## General Info
 
 * Fatkid has his own [route](https://pastebin.com/tA9ctBgw) that is probably faster but uses Ken & Metis so it sucks
-
 * Voices on w/ Auto Advance is apparently faster (thanks fatkid)
-
 * I don't use Tactics Memory, but it's personal preference
-
 * The Answer has no compendium so most of your time save is going to come from adapting the fusion route on the fly based on what shuffle time personas you get
-
 * Generally in shuffle time: Persona >= Wands > Equipment
   * Which is better between Persona & Wands is completely situational
   * Shuffle time can be forced by ending on MC's turn or finishing with an AoA
   * Money & Cup are basically useless
-
   * You should probably practice doing fights with party members and always ending on MC's turn
-
 * You'll want to scan 99% of enemies & bosses
   * The other 1% are enemies with "Counter" skills that you want the party members to attack
   * Even if you can't see the weakness of bosses, your party members can
-
 * Don't be afraid to use most items
   * You want to avoid using Mirrors of any kind
   * A good number of Somas & Precious Eggs are basically required for the final fights but don't be too stingy with them
   * Bead Chains are really good for a quick "Oh shit" heal
-
 * Other than the necessary accessories & 1 routed armor upgrade shopping & equipment upgrades are up to you
   * You want a good number of "Dis-" items & Me Patra Gems
   * You'll need an increasingly large amount of Revival Beads later on
   * Medical Powders are really good for conserving SP during grinds
-
 * There are 3 methods of getting shadows to turn around
-
   * The fastest way is to climb stairs after aggroing it
   * The 2nd fastest way is to run far enough away to deaggro (far enough that it doesn't show up on the minimap)
   * The absolute slowest way is to open and close the triangle menu before aggroing them
     * Avoid doing this whenever possible (unless you have to menu anyways)
-
 * Quick inputs during battle that are useful
-
   * L1: Brings up scan
   * R1: Brings up turn order
   * Square: Pass turn
   * Circle: Jump to Basic Attack in menu
   * Circle -> Down -> X: Quick open skill menu
-
 * Official Speedrun.com™ sanctioned timing starts on Power On and ends on the final cutscene skip before the credits
 
   * [Burn leaderboards](https://i.imgur.com/cnMpVSv.png)
