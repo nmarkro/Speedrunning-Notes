@@ -106,15 +106,17 @@ Buy 5 Revival Beads & 5 Me Patra Gems
 
 ## Cocytus
 
+Buy Agni Bracers and equip them on Koromaru
+
 Fuse:
 
 > Orpheus x Narcissus = Sarasvati
 
-Bring Junpei, Yukari, Metis
+Bring Junpei, Koromaru, Metis
 
 ### Brilliant Cyclops (& Soul Dancers)
 
-- Set everyone to target the Cyclops, swap Yukari to Heal/Support
+- Set everyone to target the Cyclops
 - Scan the Cyclops -> Dancers
 - Phys attack the Cyclops until it starts summoning
 - Keep the Dancers knocked down with Bufula
@@ -122,13 +124,15 @@ Bring Junpei, Yukari, Metis
 
 Finish the rest of Cocytus
 
+Take Koro's Agni Bracers and equip them on Aigis
+
 Buy Vayu, Indra, & Varuna Bracers and equip them on Akihiko, Yukari, & Mitsuru
 
 Grind in Cocytus Section 2 with Akihiko, Yukari, & Mitsuru
 
-Grind until Aigis is level 32
+Grind until Aigis is level 32 (Get Fire Boost on Hua Po at some point)
 
-Try to find Sati/Orobas, King Frost, Virtue
+Try to find Sati/Orobas, King Frost, Oumitsunu
 
 |                | Slash  | Strike   | Pierce | Fire     | Ice    | Elec     | Wind     | Light | Dark     |
 | -------------- | ------ | -------- | ------ | -------- | ------ | -------- | -------- | ----- | -------- |
@@ -197,7 +201,7 @@ Bring Junpei, Yukari, Akihiko
 
 Grind in Atenora Section 1 with Junpei, Mitsuru, & Yukari until Aigis & Yukari are level 43
 
-Try to find a Raja Naga
+Try to find a Raja Naga and Oumitsunu if you haven't already
 
 |                 | Slash    | Strike   | Pierce   | Fire     | Ice      | Elec     | Wind     | Light    | Dark   |
 | --------------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- | ------ |
@@ -215,15 +219,19 @@ Try to find a Raja Naga
 
 Raja Naga can be found in Caina or Atenora
 
-Virtue can be found in Cocytus
-
 Fuse:
 
-> [Raja Naga](#raja-naga) x [Virtue](#virtue) = Succubus 
+> Hua Po x Empusa x Oumitsunu = Virtue
+>
+> > Fire Boost
+
+> [Raja Naga](#raja-naga) x Virtue = Succubus 
 >
 > > Tentarafoo 
 > >
 > > Infuriate
+> >
+> > Fire Boost
 
 Sell useless shit and restock on Me Patra Gems & Revival Beads if needed
 
@@ -291,7 +299,7 @@ Akihiko needs to learn Ziodyne (level 53) & Yukari needs to learn Diarahan (leve
 
 Optional: Fuse something with Hama attacks if you don't have any (Virtue, Dominion, Thoth, etc)
 
-Find Kurama Tengu, Clotho, Lachesis, & Throne while grinding
+Find Daisoujou, Kurama Tengu, Clotho, Lachesis, Houto Seikun/Atropos & Throne while grinding
 
 |                | Slash  | Strike     | Pierce | Fire   | Ice        | Elec   | Wind       | Light      | Dark       |
 | -------------- | ------ | ---------- | ------ | ------ | ---------- | ------ | ---------- | ---------- | ---------- |
@@ -310,7 +318,7 @@ Find Kurama Tengu, Clotho, Lachesis, & Throne while grinding
 
 As soon as you hit 53 fuse:
 
-> Seiryu x [Kurama Tengu](#kurama-tengu) x Jikokuten/Virtue/Hanuman/Dominion/Ose/Decarabia = Surt 
+> Seiryu x [Kurama Tengu](#kurama-tengu) x Jikokuten/Virtue/Hanuman/Dominion/Ose/Decarabia = Surt (Heart Item)
 >
 > > Virus Breath
 > >
@@ -318,15 +326,16 @@ As soon as you hit 53 fuse:
 > >
 > > (Masukunda)
 
-> [Throne](#throne) x Saki Mitama/Thoth/Hokuto Seikun/Titania = Thor (Heart Item)
+> [Throne](#throne) x Saki Mitama/Thoth/Hokuto Seikun/Titania = Thor
 >
 > > Mahamaon
+>
+> You can fuse Thor differently however, his inherited skills don't matter
 
 When you hit level 55 fuse:
 
 > Clotho x Lachesis x Orobas/Nata Taishi/Taraka/Rangda/Thoth/Narasihma/Barong/Vasuki = Jatayu (Heart Item)
 >
-> **Make sure to learn over Growth 3 when Jatayu hits 58**
 
 Buy 1 Ergo Armor, 3 Kaiser Armor, 1 Titanium Legs, & 3 Assassin's Shoes
 
@@ -347,39 +356,27 @@ Bring Akihiko, Junpei, & Yukari
 
 Take the armor you just gave to Junpei and give it to Mitsuru
 
-Grind in Judecca Section 2 with Yukari & Mitsuru
+Find/fuse a Daisoujou if you haven't already
 
-Grind until you get Thor's & Jatayu's Heart Items and get both Mitsuru & Yukari their break spells (level 61 & 60)
+Grind in Judecca Section 2 with Yukari, Akihiko, & Mitsuru
 
-Find/fuse another Kurama Tengu and get Growth 2 on him
+Grind until Aigis is level 59 <= 1562 next exp, Ragnorak on Surt, Null Dark on Daisoujou, Auto-Mataru on Thor, -Dynes on Mitsuru and Yukari, and  Jatayu's Heart Item
 
-From here on you'll need to grab a Laksmi from shuffle time at some point
+From here on you'll need to grab a Lakshmi from shuffle time at some point
 
-At level 59, run around in Ptolomea Section 2 and find Lachesis & Atropos. You'll also need one of the following combinations:
+After grinding fuse:
 
-- Thoth/Daisoujou & Koumokuten
-- Kingu & Atropos
-- Decarabia & Throne
-
-If you don't have a Oumitsunu or Nata Taishi go run around in Caina until you find one 
-
-Fuse:
-
-> Kurama Tengu x Narasimha/Kali/Ubelluris/Hecatoncheires/Hell Biker = Atropos
+> Jatayu x Houto Seikun/Atropos = Byakko
 >
-> > Growth 2
+> > (Null Panic)
 >
-> Atropos x Succubus = Chernobog (Heart Item)
+> Daisoujou x Byakko = Siegfried
 >
-> > Growth 2
-
-> Mothman x Oumitsunu/Nata Taishi = Seiryu
->
-> > Fire Break
->
-> Lachesis x Seiryu x Hua Po = Anubis
->
-> > Fire Break
+> > Null Dark
+> >
+> > Diarahan
+> >
+> > (Null Panic)
 
 |                | Slash      | Strike     | Pierce     | Fire       | Ice        | Elec       | Wind       | Light      | Dark       |
 | -------------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- |
@@ -415,51 +412,57 @@ Take Yukari & Mitsuru
 
 ## Empyrean
 
-Fuse Odin from one of the following:
+Fuse:
 
-> Thoth/Daisoujou x Anubis = Raphael
+> Atropos x Succubus = Chernobog
+>
+> Chernobog x Surt x Fortuna/Narcissus/Empusa/Queen Mab/Kusi Mitama/Clotho/Saki Mitama/Lachesis = Bishamonten
+>
+> > Null Wind
+> >
+> > Ragnarok
+> >
+> > Fire Boost
+>
+> Make sure to learn something over Diarahan before the Yukari & Mitsuru fight
+
+Fuse one of the following:
+
+> Titania x Kumbhanda = Melchizedek
+>
+> Decaraiba x Kikuri-Hime/Atropos = Melchizedek
+>
+> Kikuri-Hime x Barong = Melchizedek
+>
+> Raphael x Kurama Tengu/Kumbhanda = Melchizedek
+
+Then fuse:
+
+> Kingu/Barong x Melchizedek = Lilith
+>
+> > Growth 3
+
+Grind in Empyrean section 1 w/ Akihiko, Mitsuru, Yukari until Lilith learns Makarakarn
+
+After learning Makarakarn fuse:
+
+> Try to trifuse or fuse Loki this if you can for easier inheritance
+>
+> Loki x Lilith = Arahabaki
 >
 > > Makarakarn
 > >
-> > Fire Break
->
-> Koumokuten x Raphael = Odin
+> > Growth 3
+
+Continue grinding for Tetrakarn, then fuse:
+
+> Arahabaki x Lachesis = Odin
 >
 > > Makarakarn
 > >
-> > Fire Break
-
-or
-
-> Kingu x Anubis = Daisoujou
->
-> > Makarakarn
+> > Tetrakarn
 > >
-> > Fire Break
->
-> Atropos x Daisoujou = Odin
->
-> > Makarakarn
-> >
-> > Fire Break
-
-or
-
-> Decarabia x Anubis = Ganesha
->
-> > Makarakarn
-> >
-> > Fire Break
->
-> Throne x Ganesha = Odin
->
-> > Makarakarn
-> >
-> > Fire Break
-
-Grind in Empyrean section 1 solo until Odin learns all his skills & you get Chernobog's heart item
-
-Try to get Parvati/Kikuri-Hime
+> > (Growth 3)
 
 |                 | Slash  | Strike     | Pierce | Fire       | Ice        | Elec       | Wind       | Light  | Dark       |
 | --------------- | ------ | ---------- | ------ | ---------- | ---------- | ---------- | ---------- | ------ | ---------- |
@@ -479,33 +482,24 @@ Try to get Parvati/Kikuri-Hime
 | Fanatic Tower   |        |            |        | Repel      | Repel      | Repel      |            | Null   | Null       |
 | Grudge Tower    | Resist |            | Resist | Absorb     |            | Repel      |            | Null   | Repel      |
 
-Find the necessary personas and fuse:
+Grab Yukari, Akihiko, & Mitsuru
 
-> Chernobog x Surt x Fortuna/Narcissus/Empusa/Queen Mab/Kusi Mitama/Clotho/Saki Mitama/Lachesis = Bishamonten
->
-> > Null Wind
-> >
-> > Ragnarok
-> >
-> > Fire Boost
->
-> Make sure to learn something over Diarahan before the Yukari & Mitsuru fight
-
-Go solo & equip Null Slash accessory on Aigis
+Equip Null Wind accessory on Aigis
 
 ### Rebellious Cyclops & 2 Acheron Seekers
 
-* Stay on Bishamonten and spam Maragidyne/Ragnarok
-* Heal as needed with Diarahan
-* Try to take out the Cyclops before the last Seeker
-* Throw Attack Mirror after Power Charge
-* Finish with Bishamonten to learn Fire Amp
+* Put everyone on Heal/Support, swap Akihiko to Knock Down
+* Scan Seekers -> Cyclops
+* Keep shields up (Makarakarn has priority over Tetrakarn)
+* Goal is to kill the Seekers with reflected Maragidyne or Magarudynes (after Yukari's Wind Break)
+* After both Seekers are dead just keep Tetrakarn up and Rag down the Cyclops
+* Try to end on Odin
 
-Grind in Empyrean Section 2 alone
+Grind in Empyrean Section 2 with Akihiko and Mitsuru (bring Yukari if you want extra safety on Erebus)
 
-Grind until Laksmi (which you should have found by now) learns Resist Fire & Null Dark and Bishamonten learns something over Diarahan.
+Grind until Lakshmi learns Ice Break, Bishamonten learns something over Diarahan, Siegfried & Odin learn all their skills
 
-Aigis should finish this grind at like 72ish
+Aigis should finish grinding at like level 70ish
 
 |                | Slash      | Strike     | Pierce | Fire       | Ice        | Elec       | Wind   | Light | Dark       |
 | -------------- | ---------- | ---------- | ------ | ---------- | ---------- | ---------- | ------ | ----- | ---------- |
@@ -529,42 +523,33 @@ Aigis should finish this grind at like 72ish
 
 Take Akihiko, Mitsuru, & Yukari
 
-Give Mitsuru & Yukari their Amp bracers back, equip Null Slash on Aigis
+Equip Elec Boost accessory on Aigis
 
 ### Tenjin Musha, Kaiden Musha, & Onnen Musha
 
 * Put everyone on Heal/Support, swap Mitsuru to Assign Target to whatever you are nuking down
-* Don't switch off Bishamonten
-* Nuke down Kaiden Musha with Ragnarok
-* Nuke down Tenjin Musha with Ragnarok
-* Fire Break then Nuke down Onnen Musha
+* Try to keep Tetrakarn up as much as possible
+* Nuke down Kaiden Musha with Ragnarok/Thunder Reign
+* Nuke down Tenjin Musha with Ragnarok/Thunder Reign
+* Fire Break (if you still have it) then Nuke down Onnen Musha w/ Rag or Power Charge -> Tempest Slash
 * Swap Yukari & Mitsuru to Act Freely to have them use their Break spells
 
-Fuse:
+Bring Ken, Yukari, and Junpei
 
-> Laksmi x Jatayu x Parvati/Kikuri-Hime = Yurlungur
->
-> > Resist Fire
-> >
-> > Null Dark
+Buy Null Wind on Aigis and restock on items
 
-Only bring Yukari
-
-Buy Thunder Bracers and restock on items
-
-Buy any Precious Eggs, Magic Mirrors, & Bead/Bead Chains
-
-You will probably need 2-3 Somas and a ton of Revival Beads for this fight
-
-Equip Null Wind accessory on Aigis, Wind Amp on Yukari
+Buy any Precious Eggs, Mirrors, & Bead/Bead Chains
 
 ### ??? (Protagonist)
 
 * Changes Persona every 3 turns
-* Pallas Athena -> Isis -> Pallas Athena -> ...
-* Say on Thor and use Ziodyne during Pallas Athena
-* Revive Yukari as soon as she dies
-* Swap to Odin and Thunder Reign during Isis
+* Keep both Shields up (Tetrakarn first but after that priority is based on the persona ??? is on)
+  * Pallas Athena: Tetrakarn > Makarakarn
+  * Trismegistus: Tetrakarn > Makarakarn
+  * Kala-Nemi: Makarakarn > Tetrakarn
+  * Isis: Makarakarn > Tetrakarn
+* Goal is to repel Vorpal Blades, Deathbounds, Maziodynes, and potentially Magarudynes
+* Swap to Odin and Thunder Reign during Isis if you want for the big dick damage
 
 ## Team Fights & Final Boss
 
@@ -579,35 +564,58 @@ Equip Aigis with Thunder Bracers
 * Ziodyne on Thor turns
 * Thunder Reign/Ragnarok on non-Thor turns
 * Reapply Makarakarn as needed (Ken is a dick sometimes)
+* Once Akihiko is alone you can use Tetrakarn instead of switching to Thor after Power Charge
 
-Equip Null Slash accessory on Aigis
+Equip Null Fire accessory on Aigis
 
 ### Koromaru & Junpei
 
-* Stay on Yurlungur and spam Mabufudyne
-* Don't bother reviving Metis
+* Set Metis to Knock Down and scan Junpei
+* Spam TR on Koromaru while Metis is alive
+* Swap to Siegfried and use Power Charge -> Tempest Slash on Koro
+* Stay above 200ish (or 400ish while Fire Broken)
+* When Junpei is alone switch to Odin and keep Tetrakarn up
+* TR when free
+
+Fuse:
+
+> Lakshmi x Thor x Siegfried = Hariti
+>
+> > Ice Break
+> >
+> > Auto-Mataru
+> >
+> > (Auto-Masuku)
+>
+> Siegfried needs to be the highest level in the fusion
+
+Equip Null Wind on Aigis
 
 ### Yukari & Mitsuru
 
-* Don't bother reviving Metis
 * Stay on Bishamonten and nuke down Yukari with Ragnarok 
 * Spam Ragnarok on Mitsuru until right before phase change (half HP)
-* Swap to Yurlungur and press triangle
+* Swap to Odin and Tetrakarn then TR or wait until repel under 50% 
+* Below 50% hp:
+  * Keep Tetrakarn up at all times
+  * Stay healed to full with Hariti
+  * TR on free turns
+  * After Mind Charge swap to Hariti and Ice Break
 
 Take Yukari, Akihiko, Mitsuru (in that order)
 
-Equip Aigis with Null Wind accessory, Yukari with Null Elec, Akihiko with Elec Amp, Mitsuru with Ice Amp
+Equip Aigis with Elec Boost accessory
 
 Equip any ultimate weapons & best armor if you haven't already
 
 ### Erebus
 
-* Put Yukari & Akihiko on Heal/Support, Mitsuru on Act Freely
-* Keep Magic Mirrors/Makarakarn up and Thunder Reign/use items on free turns
-* Aigis/Yukari being stripped of Makarakarn is mostly fine, you'll definitely want to reapply if Mitsuru/Akihiko lose mirrors or if both Aigis & Yukari both lose mirrors
-* Swap everyone to Full Assault during Dark Embrace, Use Ragnarok over Thunder Reign during this phase
+* Put Yukari & Akihiko on Heal/Support, Mitsuru on Full Assault
+* Keep shields up (Makarakarn has priority over Tetrakarn)
+* TR, Mind Charge (if you have it), or use SP items on free turns
+* Swap everyone to Full Assault during Dark Embrace, Use Thunder Reign during this phase
 * Only reapply Makarakarn during Dark Embrace if someone misses, otherwise Erebus shouldn't even get his 2nd turn during Dark Embrace
-* Don't get crit lol
+* Don't get crit lmao
 
 ## Backup Fusions
 
