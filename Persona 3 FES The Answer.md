@@ -446,7 +446,7 @@ Grind in Empyrean section 1 w/ Akihiko, Mitsuru, Yukari until Lilith learns Maka
 
 After learning Makarakarn fuse:
 
-> Try to trifuse or fuse Loki this if you can for easier inheritance
+> Try to trifuse this or fuse Loki if you can for easier inheritance
 >
 > Loki x Lilith = Arahabaki
 >
