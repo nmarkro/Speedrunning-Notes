@@ -128,6 +128,14 @@ Take Koro's Agni Bracers and equip them on Aigis
 
 Buy Vayu, Indra, & Varuna Bracers and equip them on Akihiko, Yukari, & Mitsuru
 
+Recommend fusion (optional):
+
+> Legion/Orpheus x High Pixie = Power (for grinding)
+>
+> > Mabufu
+>
+> Power x Shiisaa/Queen Mab/Fortuna/Kusi Mitama = Oumitsunu (for later)
+
 Grind in Cocytus Section 2 with Akihiko, Yukari, & Mitsuru
 
 Grind until Aigis is level 32 (Get Fire Boost on Hua Po at some point)
