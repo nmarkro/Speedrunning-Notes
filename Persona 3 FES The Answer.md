@@ -415,8 +415,9 @@ Take Yukari & Mitsuru
 * Turn 1: Throw a Magic Mirror
 * Turn 2: Swap to Surt and Ragnorak
 * Turn 3: Scan the Jotun & Ragnorak the Maya
-* Turn 4: Set everyone to act freely and keep throwing Mirrors
-* End on Anubis to learn Makarakarn
+* Turn 4: Set everyone to heal/support and swap to Siegfried
+* Spam Power Charge -> Tempest Slash
+* Throw extra mirrors if you want idk lmao
 
 ## Empyrean
 
