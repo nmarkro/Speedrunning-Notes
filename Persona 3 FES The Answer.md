@@ -415,7 +415,7 @@ Fuse:
 >
 > Chernobog x Surt x Fortuna/Narcissus/Empusa/Queen Mab/Kusi Mitama/Clotho/Saki Mitama/Lachesis = Bishamonten
 >
-> > Null Wind
+> > Null Slash
 > >
 > > Ragnarok
 > >
@@ -440,6 +440,8 @@ Then fuse:
 > > Growth 3
 
 Grind in Empyrean section 1 w/ Akihiko, Mitsuru, Yukari until Lilith learns Makarakarn
+
+You can also choose to move on after Bishamonten learns Fire Amp
 
 After learning Makarakarn fuse:
 
@@ -487,10 +489,15 @@ Equip Null Wind accessory on Aigis
 
 * Put everyone on Heal/Support, swap Akihiko to Knock Down
 * Scan Seekers -> Cyclops
-* Keep shields up (Makarakarn has priority over Tetrakarn)
-* Goal is to kill the Seekers with reflected Maragidyne or Magarudynes (after Yukari's Wind Break)
-* After both Seekers are dead just keep Tetrakarn up and Rag down the Cyclops
-* Try to end on Odin
+* If you have Odin you can do the shield strat:
+  * Keep shields up (Makarakarn has priority over Tetrakarn)
+  * Goal is to kill the Seekers with reflected Maragidyne or Magarudynes (after Yukari's Wind Break)
+  * After both Seekers are dead just keep Tetrakarn up and Ragnorak down the Cyclops
+  * Try to end on Odin
+* If you only have Bishamonten you can do the Ragnorak/Maragidyne strat
+  * Spam Maragidyne
+  * You can focus down the Cyclops first with Ragnorak if you like
+  * Diarahan whenever low
 
 Grind in Empyrean Section 2 with Akihiko and Mitsuru (bring Yukari if you want extra safety on Erebus)
 
@@ -530,14 +537,14 @@ Equip Elec Boost accessory on Aigis
 * Try to keep Tetrakarn up as much as possible
 * Nuke down Kaiden Musha with Ragnarok/Thunder Reign
 * Nuke down Tenjin Musha with Ragnarok/Thunder Reign
-* Fire Break (if you still have it) then Nuke down Onnen Musha w/ Rag
+* Fire Break (if you still have it) then Nuke down Onnen Musha w/ Ragnorak 
 * Swap Yukari & Mitsuru to Act Freely to have them use their Break spells
 
 Bring Ken, Yukari, and Junpei
 
-Buy Null Wind on Aigis and restock on items (Me Patra Gems will be really important in a bit)
+Equip Null Wind on Aigis
 
-Buy any Precious Eggs, Mirrors, & Bead/Bead Chains
+Buy any Precious Eggs, Mirrors, & Bead/Bead Chains and restock on any items (Me Patra Gems will be really important in a bit)
 
 ### ??? (Protagonist)
 
@@ -556,10 +563,11 @@ Take Mitsuru's Ice Amp accessory before the cutscene
 
 Equip Aigis with Thunder Bracers
 
+Don't really bother reviving Metis in any of these fights
+
 ### Akihiko & Ken
 
 * Scan Akihiko & set Metis to Knockdown
-* Don't bother reviving Metis
 * Swap to Odin and use Makarakarn (forces Akihiko to Power Charge -> Gigantic Fist)
 * Switch to Thor before Akihiko's attack to null it
 * Ziodyne on Thor turns
@@ -600,7 +608,7 @@ Equip Ice Amp accessory on Aigis
 * Stay on Hariti and spam Bufudyne on Koro
 * Stay above 200-300ish (Life drain hurts)
 * When Junpei is alone switch to Odin and keep Tetrakarn up
-* TR when free
+* Thunder Reign when free
 
 Equip Null Wind on Aigis
 
@@ -624,8 +632,8 @@ Equip any ultimate weapons & best armor if you haven't already
 ### Erebus
 
 * Put Yukari & Akihiko on Heal/Support, Mitsuru on Full Assault
-* Keep shields up (Makarakarn has priority over Tetrakarn)
-* TR, Mind Charge (if you have it), or use SP items on free turns
+* Keep shields up (Makarakarn > Tetrakarn)
+* Thunder Reign, Mind Charge (if you have it), or use SP items on free turns
 * Swap everyone to Full Assault during Dark Embrace, Use Thunder Reign during this phase
 * Only reapply Makarakarn during Dark Embrace if someone misses, otherwise Erebus shouldn't even get his 2nd turn during Dark Embrace
 * Don't get crit lmao
