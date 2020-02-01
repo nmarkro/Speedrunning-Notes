@@ -139,7 +139,7 @@ Grind in Cocytus Section 2 with Akihiko, Yukari, & Mitsuru
 
 Grind until Aigis is level 32 (Get Fire Boost on Hua Po at some point)
 
-Try to find Sati/Orobas, King Frost, Oumitsunu
+Try to find Sati/Orobas, King Frost
 
 |                | Slash  | Strike   | Pierce | Fire     | Ice    | Elec     | Wind     | Light | Dark     |
 | -------------- | ------ | -------- | ------ | -------- | ------ | -------- | -------- | ----- | -------- |
@@ -208,7 +208,7 @@ Bring Junpei, Yukari, Akihiko
 
 Grind in Atenora Section 1 with Junpei, Mitsuru, & Yukari until Aigis & Yukari are level 43
 
-Try to find a Raja Naga and Oumitsunu if you haven't already
+Try to find a Raja Naga if you haven't already
 
 |                 | Slash    | Strike   | Pierce   | Fire     | Ice      | Elec     | Wind     | Light    | Dark   |
 | --------------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- | ------ |
@@ -530,7 +530,7 @@ Equip Elec Boost accessory on Aigis
 * Try to keep Tetrakarn up as much as possible
 * Nuke down Kaiden Musha with Ragnarok/Thunder Reign
 * Nuke down Tenjin Musha with Ragnarok/Thunder Reign
-* Fire Break (if you still have it) then Nuke down Onnen Musha w/ Rag or Power Charge -> Tempest Slash
+* Fire Break (if you still have it) then Nuke down Onnen Musha w/ Rag
 * Swap Yukari & Mitsuru to Act Freely to have them use their Break spells
 
 Bring Ken, Yukari, and Junpei
