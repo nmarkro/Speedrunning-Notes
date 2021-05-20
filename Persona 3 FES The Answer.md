@@ -41,7 +41,7 @@ You can contact me through [twitter](https://twitter.com/NMarkro) or discord (NM
 
 ## General Info
 
-* Fatkid has his own [route](https://pastebin.com/tA9ctBgw) that is probably faster but uses Ken & Metis so it sucks
+* Fatkid has his own [route](https://pastebin.com/tA9ctBgw) that is (most likely) faster but uses Ken & Metis so it sucks
 * Voices on w/ Auto Advance is apparently faster (thanks fatkid)
 * I don't use Tactics Memory, but it's personal preference
 * The Answer has no compendium so most of your time save is going to come from adapting the fusion route on the fly based on what shuffle time personas you get
@@ -66,6 +66,7 @@ You can contact me through [twitter](https://twitter.com/NMarkro) or discord (NM
   * The 2nd fastest way is to run far enough away to deaggro (far enough that it doesn't show up on the minimap)
   * The absolute slowest way is to open and close the triangle menu before aggroing them
     * Avoid doing this whenever possible (unless you have to menu anyways)
+* There is a period of time after leaving a battle where shadows won't see you, use this to your advantage
 * Quick inputs during battle that are useful
   * L1: Brings up scan
   * R1: Brings up turn order
@@ -134,7 +135,7 @@ Buy Vayu, Indra, & Varuna Bracers and equip them on Akihiko, Yukari, & Mitsuru
 
 Grind in Cocytus Section 2 with Akihiko, Yukari, & Mitsuru
 
-Grind until Aigis is level 32 (Get Fire Boost on Hua Po at some point)
+Grind until Aigis is level 32 (Get Fire Boost on Hua Po at some point and Ice Boost on Sarasvati)
 
 Try to find Sati/Orobas, King Frost
 
@@ -154,8 +155,7 @@ Fuse:
 >
 > > Bufula
 > >
-> > Mudo
->
+> > Ice Boost
 
 ## Caina
 
@@ -301,9 +301,9 @@ Bring Mitsuru, Yukari, & Akihiko and grind to level 55
 
 Yukari needs to learn Diarahan (level 52) and Akihiko learning Ziodyne (level 53) is nice, but not required 
 
-Optional: Fuse something with Hama attacks if you don't have any (Virtue, Dominion, Thoth, etc)
+Find Kurama Tengu, Clotho, Lachesis, & Throne while grinding
 
-Find Kurama Tengu, Clotho, Lachesis, Houto Seikun/Atropos & Throne while grinding
+Be on the lookout for Titania/Laksmi/Loki, which one you get first will change the fusion route & some strats later
 
 |                | Slash  | Strike     | Pierce | Fire   | Ice        | Elec   | Wind       | Light      | Dark       |
 | -------------- | ------ | ---------- | ------ | ------ | ---------- | ------ | ---------- | ---------- | ---------- |
@@ -322,7 +322,7 @@ Find Kurama Tengu, Clotho, Lachesis, Houto Seikun/Atropos & Throne while grindin
 
 As soon as you hit 53 fuse:
 
-> Seiryu x [Kurama Tengu](#kurama-tengu) x Jikokuten/Virtue/Hanuman/Dominion/Ose/Decarabia = Surt (Heart Item)
+> Seiryu x [Kurama Tengu](#kurama-tengu) x Jikokuten/Virtue/Hanuman/Dominion/Ose/Decarabia = Surt
 >
 > > Virus Breath
 > >
@@ -330,22 +330,39 @@ As soon as you hit 53 fuse:
 > >
 > > Growth 2
 
-> [Throne](#throne) x Saki Mitama/Thoth/Hokuto Seikun/Titania = Thor
+Fuse any of these (there are a ton more these are just examples):
+
+> Dominion x Lachesis/Hokuto Seikun = Thor
 >
-> > Mahamaon
+> Decarabia x Raja Naga = Thor
 >
-> You can fuse Thor differently however, his inherited skills don't matter
+> Ose x Kingu/Barong = Thor
+>
+> Kikuri-Hime/Parvati/Kingu x Thoth =  Thor
+>
+> Yaksini x Hanuman = Thor
+>
+> Kikuri-Hime/Kumbhanda x Flauros = Thor
+>
+> Virtue x Atropos = Thor
+>
+> Yaksini x Vasuki = Thor
+>
+> Hokuto Seikun x Kurma Tengu/Kingu = Thor
+>
+> Leanan Sidhe x Hecatoncheires/Kali = Thor
+>
+> Barong x Saki Mitama = Thor
 
 When you hit level 55 fuse:
 
 > Clotho x Lachesis x Orobas/Nata Taishi/Taraka/Rangda/Thoth/Narasihma/Barong/Vasuki = Jatayu (Heart Item)
->
 
 Buy 1 Ergo Armor, 3 Kaiser Armor, 1 Titanium Legs, & 3 Assassin's Shoes
 
-Refill on Revival Beads if you need to (you'll want a lot)
-
 Equip them all on Aigis, Akihiko, Junpei, & Yukari
+
+Refill on Revival Beads if you need to (you'll want a lot)
 
 Bring Akihiko, Junpei, & Yukari
 
@@ -363,14 +380,7 @@ Take the armor you just gave to Junpei and give it to Mitsuru
 
 Grind in Judecca Section 2 with Yukari, Akihiko, & Mitsuru
 
-Grind until Aigis is level 59 <= 1562 next exp, Ragnorak on Surt, Auto-Mataru on Thor, -Dynes on Mitsuru and Yukari, and  Jatayu's Heart Item
-
-After grinding fuse:
-
-> Jatayu x Kingu/Decarabia/Barong/Loki = Laksmi
->
-> > Growth 3
->
+Grind until Aigis is level 59 <= 1562 next exp, Ragnorak on Surt, Auto-Mataru on Thor, -Dynes on Mitsuru and Yukari, and Jatayu's Heart Item
 
 |                | Slash      | Strike     | Pierce     | Fire       | Ice        | Elec       | Wind       | Light      | Dark       |
 | -------------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- |
@@ -410,21 +420,15 @@ Take Yukari, Akihiko, & Mitsuru
 
 ## Empyrean
 
-Fuse:
+Fuse these if you can but you can do them after Cyclops & Seekers too:
 
-> Atropos x Succubus = Chernobog
+> Atropos/Hecatoncheires/Hell Biker x Succubus = Chernobog (Heart Item)
 >
-> Chernobog x Surt x Fortuna/Narcissus/Empusa/Queen Mab/Kusi Mitama/Clotho/Saki Mitama/Lachesis = Bishamonten
+> Jatayu x Throne = Odin
 >
-> > Null Slash
-> >
-> > Ragnarok
-> >
-> > Fire Boost
->
-> Make sure to learn something over Diarahan before the Yukari & Mitsuru fight
+> > Growth 3
 
-Fuse one of the following:
+Fuse one of these:
 
 > Titania x Kumbhanda = Melchizedek
 >
@@ -434,79 +438,178 @@ Fuse one of the following:
 >
 > Raphael x Kurama Tengu/Kumbhanda = Melchizedek
 
-Then fuse:
-
 > Kingu/Barong x Melchizedek = Lilith
 >
 > > Growth 3
 
-Grind in Empyrean section 1 w/ Akihiko, Mitsuru, Yukari until Lilith learns Makarakarn
+Make sure you have 2/3 Attack Mirrors, grab Yukari, Akihiko, & Mitsuru
 
-You can also choose to move on after Bishamonten learns Fire Amp
-
-After learning Makarakarn fuse:
-
-> Try to trifuse this or fuse Loki if you can for easier inheritance
->
-> Loki x Lilith = Arahabaki
->
-> > Makarakarn
-> >
-> > Growth 3
-
-Continue grinding for Tetrakarn, then fuse:
-
-> Arahabaki x Atropos/Lachesis = Odin
->
-> > Makarakarn
-> >
-> > Tetrakarn
-> >
-> > Growth 3
-
-|                 | Slash  | Strike     | Pierce | Fire       | Ice        | Elec       | Wind       | Light  | Dark       |
-| --------------- | ------ | ---------- | ------ | ---------- | ---------- | ---------- | ---------- | ------ | ---------- |
-| Hallowed Turret | Repel  | Repel      | Repel  |            |            | ***Weak*** |            | Resist | Resist     |
-| Grand Magus     |        | Null       |        | ***Weak*** | Repel      |            |            | Repel  | Repel      |
-| Battle Wheel    |        |            |        |            |            |            |            | Null   |            |
-| Amenti Raven    |        |            |        | Repel      |            | ***Weak*** | Resist     |        |            |
-| Change Relic    |        |            |        |            |            |            | Null       | Null   | Null       |
-| Natural Dancer  |        |            |        |            |            |            | Null       | Null   | Null       |
-| Amorous Snake   | Resist | Resist     | Resist | Absorb     | ***Weak*** |            |            | Repel  | ***Weak*** |
-| Void Giant      | Absorb | Absorb     | Absorb |            |            |            |            | Repel  | Repel      |
-| White Sigil     | Repel  |            |        | ***Weak*** | Absorb     |            |            | Repel  |            |
-| Gracious Cupid  |        | ***Weak*** |        |            | Null       |            |            |        |            |
-| Intrepid Knight | Resist |            | Resist |            |            | ***Weak*** | Absorb     | Null   | Null       |
-| Sleeping Table  | Resist | Null       | Resist | Resist     |            |            |            | Null   | Null       |
-| King Castle     |        | Repel      |        |            |            | Absorb     | ***Weak*** | Resist | Resist     |
-| Fanatic Tower   |        |            |        | Repel      | Repel      | Repel      |            | Null   | Null       |
-| Grudge Tower    | Resist |            | Resist | Absorb     |            | Repel      |            | Null   | Repel      |
-
-Grab Yukari, Akihiko, & Mitsuru
-
-Equip Null Wind accessory on Aigis
+Equip Null Wind accessory on Aigis, equip Null Fire accessory on Yukari if you have it
 
 ### Rebellious Cyclops & 2 Acheron Seekers
 
-* Put everyone on Heal/Support, swap Akihiko to Knock Down
+* Put everyone on Heal/Support, swap Akihiko to Knock Down, swap Mitsuru to target whatever she chose to Ice Break
 * Scan Seekers -> Cyclops
-* If you have Odin you can do the shield strat:
-  * Keep shields up (Makarakarn has priority over Tetrakarn)
-  * Goal is to kill the Seekers with reflected Maragidyne or Magarudynes (after Yukari's Wind Break)
-  * After both Seekers are dead just keep Tetrakarn up and Ragnorak down the Cyclops
-  * Try to end on Odin
-* If you only have Bishamonten you can do the Ragnorak/Maragidyne strat
-  * Spam Maragidyne
-  * You can focus down the Cyclops first with Ragnorak if you like
-  * Diarahan whenever low
+* Virus Breath -> Attack Mirror -> Maragidyne/Item -> Attack Mirror -> Maragidyne/Item (-> Attack Mirror)
+* That should kill the Cyclops, spam Maragidyne/Ragnorak on the Seekers
+
+### Grinding
 
 Grind in Empyrean Section 2 with Akihiko and Mitsuru (bring Yukari if you want extra safety on Erebus)
 
-Grind until Laksmi learns Resist Fire, Thor learns Elec Amp, Bishamonten learns something over Diarahan, & Odin learns all his skills
+You can basically spam Chernobog's Mamudoon on most fights
 
-Make sure you have the necessary personas to fuse Chernobog later
+The end goal of this grind is:
+
+> Chernobog's Heart Item
+>
+> Bishamonten w/ Null Wind, Ragnarok, Fire Boost, Fire Amp
+>
+> Arahabaki w/ Makarakarn, Tetrakarn, Spell Master
+
+and one of the following
+
+> Titania w/ Bufudyne, Ice Boost, Ice Amp, Resist Fire
+>
+> Titania w/ Bufudyne, Ice Boost, Ice Amp, Null Fire
+>
+> Loki w/ Bufudyne, Ice Boost, Ice Amp, Null Fire
+>
+> Laksmi w/ Bufudyne, Ice Boost, Ice Amp, Resist Fire, Null Dark, Ice Break, (Mediarama)
 
 Aigis should finish grinding at like level 68-70ish
+
+### Endgame Fusions
+
+If you didn't do the Chernobog or Lilith fusions do them ASAP
+
+When you learn Spell Master and Makarakarn fuse:
+
+> Thor x Lilith = Hell Biker 
+>
+> > Makarakarn
+>
+> Odin x Hell Biker = Arahabaki
+>
+> > Makarakarn
+> >
+> > Spell Master
+> >
+> > Growth 3
+
+Grind for Tetrakarn, Null Strike, & Repel Ice
+
+When you get Chernobog's Heart Item fuse:
+
+> Chernobog x Surt x Fortuna/Narcissus/Empusa/Queen Mab/Kusi Mitama/Clotho/Saki Mitama/Lachesis/Atropos = Bishamonten
+>
+> > Null Wind
+> >
+> > Ragnarok
+> >
+> > Fire Boost
+
+Grind for Fire Amp
+
+The next fusions are dependent on whichever Persona you find first between Laksmi, Titania, and Loki
+
+#### Laksmi
+
+If you find Laksmi first learn Resist Fire then fuse:
+
+> Laksmi x Mothman = Titania
+>
+> > Bufudyne
+> >
+> > Resist Fire
+> >
+> > Ice Boost
+
+Grind for Ice Amp
+
+#### Loki
+
+If you find Loki first learn Null Fire then fuse:
+
+> Mothman x Narcissus/Queen Mab = Virtue
+>
+> > Ice Boost
+>
+> Loki x Virtue = Titania 
+>
+> > Bufudyne
+> >
+> > Null Fire
+> >
+> > Ice Boost
+
+Grind for Ice Amp
+
+#### Titania (Option 1)
+
+If you find Titania first, learn Ice Amp then fuse any of these (Random shuffle time personas are bolded):
+
+> Mothman x Titania = Dominion w/ Growth 2, Ice Amp, Ice Boos
+
+> Dominion x **Atropos** x **Ose/Decarabia/Parvati/Kikuri-Hime** = Loki w/ Growth 2, Ice Amp, Ice Boost
+>
+> Dominion x **Kumbhanda** x **Kurama Tengu/Ubelluris/Nebiros/Hecatoncheires** = Loki w/ Growth 2, Ice Amp, Ice Boost
+>
+> Dominion x **Daisoujou** x **Kingu/Barong** = Loki w/ Growth 2, Ice Amp, Ice Boost
+>
+> Dominion x **Nebiros** x **Ubelluris** = Loki w/ Growth 2, Ice Amp, Ice Boost
+>
+> Dominion x **Hariti** x **Yaksini/Laksmi** = Loki w/ Growth 2, Ice Amp, Ice Boost
+
+OR:
+
+> Mothman x **Kingu/Parvati/Barong/Kikuri-Hime** = Narasimha w/ Ice Boost
+>
+> Titania x Narasimha x **Kurama Tengu** = Loki w/ Growth 2, Ice Amp, Ice Boost
+
+OR:
+
+> Mothman x **Hokuto Seikun/Daisoujou** = Koumokuten w/ Ice Boost
+>
+> Titania x Koumokuten x **Ubelluris** = Loki w/ Growth 2, Ice Amp, Ice Boost
+
+OR:
+
+> Mothman x **Kumbhanda** = Kurama Tengu w/ Ice Boost
+>
+> Titania x Kurama Tengu x **Narasimha/Ubelluris** = Loki w/ Growth 2, Ice Amp, Ice Boost
+
+OR:
+
+> Mothman x **Leanan Sidhe** = Saki Mitama w/ Ice Boost
+>
+> Titania x Saki Mitama x **Atropos** = Loki w/ Growth 2, Ice Amp, Ice Boost
+
+OR:
+
+> Mothman x **Hell Biker** = Atropos w/ Ice Boost
+>
+> Titania x Atropos x **Saki Mitama** = Loki w/ Growth 2, Ice Amp, Ice Boost
+
+OR:
+
+> Mothman x **Sati/Flauros/Orobas/Rangda** = Nata Taishi w/ Ice Boost
+>
+> Titania x Nata Taishi x **Laksmi/Hariti** = Loki w/ Growth 2, Ice Amp, Ice Boost
+
+Regardless of which fusion you use, grind for Null Fire
+
+#### Titania (Option 2)
+
+If you find Titania first and want to do Ice Break memes for Mitsuru fuse:
+
+> Mothman x Titania = Dominion w/ Ice Amp, Ice Boost, Growth 2/Mediarama
+
+> Dominion x Kikuri-Hime x Narasimha = Lakshmi w/ Ice Amp, Ice Boost, Growth 2/Mediarama
+>
+> Dominion x Kali x Kingu/Barong = Lakshmi w/ Ice Amp, Ice Boost, Growth 2/Mediarama
+
+Grind for Ice Break, Null Dark, Resist Fire
 
 |                | Slash      | Strike     | Pierce | Fire       | Ice        | Elec       | Wind   | Light | Dark       |
 | -------------- | ---------- | ---------- | ------ | ---------- | ---------- | ---------- | ------ | ----- | ---------- |
@@ -530,18 +633,16 @@ Aigis should finish grinding at like level 68-70ish
 
 Take Akihiko, Mitsuru, & Yukari
 
-Buy and equip Thunder Bracers on Aigis
+Equip Null Slash accessory on Aigis
 
 ### Tenjin Musha, Kaiden Musha, & Onnen Musha
 
 * Put everyone on Heal/Support, swap Mitsuru to Assign Target to whatever you are nuking down
 * Try to keep Tetrakarn up as much as possible
-* Nuke down Kaiden Musha with Ragnarok/Thunder Reign
-* Nuke down Tenjin Musha with Ragnarok/Thunder Reign
-* Fire Break (if you still have it) then Nuke down Onnen Musha w/ Ragnorak 
+* Nuke down Kaiden Musha with Ragnarok
+* Nuke down Tenjin Musha with Ragnarok
+* Fire Break (if you still have it) then Nuke down Onnen Musha with Ragnorak 
 * Swap Yukari & Mitsuru to Act Freely to have them use their Break spells
-
-Take Mitsuru's Ice Amp accessory
 
 Bring Ken, Yukari, and Junpei
 
@@ -556,79 +657,49 @@ Buy any Precious Eggs, Mirrors, & Bead/Bead Chains and restock on any items (Me 
   * Kala-Nemi: Makarakarn > Tetrakarn
   * Isis: Makarakarn > Tetrakarn
 * Goal is to repel Vorpal Blades, Deathbounds, Maziodynes, and potentially Magarudynes
-* Swap to Odin and Thunder Reign during Isis if you want for the big dick damage
 
 ## Team Fights & Final Boss
 
 Don't really bother reviving Metis in any of these fights
 
+Equip Null Elec accessory on Aigis (if you have it)
+
 ### Akihiko & Ken
 
 * Scan Akihiko & set Metis to Knockdown
-* Swap to Odin and use Makarakarn (forces Akihiko to Power Charge -> Gigantic Fist)
-* Switch to Thor before Akihiko's attack to null it
-* Ziodyne on Thor turns
-* Ragnarok on non-Thor turns
+* Swap to Arahabaki and use Makarakarn (forces Akihiko to Power Charge -> Gigantic Fist)
+* Switch to Arahabaki before Akihiko's attacks to null it
+* You want to focus down Ken first
+* Basic Attack on Arahabaki turns, Ragnarok on non-Arahabaki turns
 * Reapply Makarakarn as needed (Ken is a dick sometimes)
-* Once Akihiko is alone you can use Tetrakarn instead of switching to Thor after Power Charge
+* Once Akihiko is alone or Metis dies you can use Tetrakarn on Arahabaki turns
 
-Fuse one of the following:
+Equip Null Slash accessory on Aigis
 
-> Thor x Hierophant x Lovers = Chernobog
->
-> Thor x Priestess x Fortune/Lovers/Chariot = Chernobog
->
-> Thor x Chariot x Justice = Chernobog
->
-> Thor x Strength x Hermit = Chernobog
->
-> Thor x Fool x Hanged = Chernobog
->
-> Thor x Magician x Magician = Chernobog
->
-> Thor x Lovers x Fortune = Chernobog
+### Koromaru & Junpei (Titania/Laksmi w/ Resist Fire)
 
-Go run around Malebolge if you haven't already and find a low level Lovers, Empress, Chariot, or Hanged Man persona for the Hariti fusion
+* Bufudyne down Koromaru first
+* Heal with Mediarama or Bishamonten's Diarhan if you are in range to die to double Agidyne
+* When Junpei is alone switch to Arahabaki and keep Tetrakarn up, Bufudyne Junpei when free
 
-Then fuse:
+### Koromaru & Junpei (Titania/Loki w/ Null Fire)
 
-> Mothman x Empress = Lovers
->
-> Mothman x Chariot = Temperance
+* Bufudyne down Koromaru first
+* If you get Fire Broken and take damage from Aigdyne heal with Mediarama or Bishamonten's Diarhan
+* When Junpei is alone switch to Arahabaki and keep Tetrakarn up, Bufudyne Junpei when free
 
-> Laksmi x Chernobog x Lovers/Hanged Man/Temperance = Hariti
->
-> > Ice Break
-> >
-> > Null Slash
-> >
-> > Resist Fire
-
-Equip Ice Amp accessory on Aigis
-
-### Koromaru & Junpei
-
-* Stay on Hariti and spam Bufudyne on Koro
-* Stay above 200-300ish (Life drain hurts)
-* When Junpei is alone switch to Odin and keep Tetrakarn up
-* Thunder Reign when free
-
-Equip Null Wind on Aigis
+Equip Null Wind accessory on Aigis
 
 ### Yukari & Mitsuru
 
 * Stay on Bishamonten and nuke down Yukari with Ragnarok 
 * Spam Ragnarok on Mitsuru until right before phase change (half HP)
-* Swap to Odin and Tetrakarn then wait until repel under 50% 
-* Below 50% hp:
-  * Stay on Hariti and keep Ice Break up
-  * Spam Bufudyne when free
+* Swap to Arahabaki and keep Tetrakarn up, rush whenever you have free turns
+* If you have the Laksmi w/ Ice Break you can it with Arahabaki's Repel Ice for big damage
 
 Take Yukari, Akihiko, Mitsuru (in that order)
 
-Put Ice Amp accessory back on Mitsuru
-
-Equip Aigis with Thunder Bracers
+Equip Null Wind accessory on Aigis
 
 Equip any ultimate weapons & best armor if you haven't already
 
@@ -636,9 +707,15 @@ Equip any ultimate weapons & best armor if you haven't already
 
 * Put Yukari & Akihiko on Heal/Support, Mitsuru on Full Assault
 * Keep shields up (Makarakarn > Tetrakarn)
-* Thunder Reign, Mind Charge (if you have it), or use SP items on free turns
-* Swap everyone to Full Assault during Dark Embrace, Use Thunder Reign during this phase
-* Only reapply Makarakarn during Dark Embrace if someone misses, otherwise Erebus shouldn't even get his 2nd turn during Dark Embrace
+* Ragnorak or use SP items on free turns
+* If you have Mind Charge:
+  * Mind Charge the turn before Dark Embrace
+  * Swap everyone to Full Assault during Dark Embrace
+  * Ragnarok if you think the party members won't knock it down in time then throw up shields when it's knocked down if needed
+  * If they do knock him down and you have shields up use Ragnarok for big damage
+* If you don't have Mind Charge:
+  * Swap everyone to Full Assault during Dark Embrace
+  * Only reapply Makarakarn during Dark Embrace if someone misses, otherwise Erebus shouldn't even get his 2nd turn during Dark Embrace
 * Don't get crit lmao
 
 ## Backup Fusions
@@ -706,7 +783,6 @@ Materials best found in Caina
 > Flauros x Kusi Mitama
 >
 > Thoth/Taraka x Empusa/Kusi Mitama
->
 
 ### Kurama Tengu
 
