@@ -475,7 +475,7 @@ and one of the following
 >
 > Loki w/ Bufudyne, Ice Boost, Ice Amp, Null Fire
 >
-> Laksmi w/ Bufudyne, Ice Boost, Ice Amp, Resist Fire, Null Dark, Ice Break, (Mediarama)
+> Laksmi w/ Bufudyne, Ice Boost, Ice Amp, Resist Fire, Null Dark, Ice Break, Mediarama
 
 Aigis should finish grinding at like level 68-70ish
 
@@ -641,8 +641,9 @@ Equip Null Slash accessory on Aigis
 * Try to keep Tetrakarn up as much as possible
 * Nuke down Kaiden Musha with Ragnarok
 * Nuke down Tenjin Musha with Ragnarok
-* Fire Break (if you still have it) then Nuke down Onnen Musha with Ragnorak 
 * Swap Yukari & Mitsuru to Act Freely to have them use their Break spells
+* After Mitsuru Ice Breaks the Onnen Musha, spam Bufudyne
+* This fight is an easy way to give EXP to Loki
 
 Bring Ken, Yukari, and Junpei
 
@@ -673,19 +674,20 @@ Equip Null Elec accessory on Aigis (if you have it)
 * Basic Attack on Arahabaki turns, Ragnarok on non-Arahabaki turns
 * Reapply Makarakarn as needed (Ken is a dick sometimes)
 * Once Akihiko is alone or Metis dies you can use Tetrakarn on Arahabaki turns
+  * Don't drop Akihiko below half while Ken is alive to avoid Diarahan
 
 Equip Null Slash accessory on Aigis
 
 ### Koromaru & Junpei (Titania/Laksmi w/ Resist Fire)
 
 * Bufudyne down Koromaru first
-* Heal with Mediarama or Bishamonten's Diarhan if you are in range to die to double Agidyne
-* When Junpei is alone switch to Arahabaki and keep Tetrakarn up, Bufudyne Junpei when free
+* Heal with Mediarama or Bishamonten's Diarahan if you are in range to die to double Agidyne
+* Spam Bufudyne on Junpei
 
 ### Koromaru & Junpei (Titania/Loki w/ Null Fire)
 
 * Bufudyne down Koromaru first
-* If you get Fire Broken and take damage from Aigdyne heal with Mediarama or Bishamonten's Diarhan
+* If you get Fire Broken and take damage from Agidyne heal with Mediarama or Bishamonten's Diarahan
 * Spam Bufudyne on Junpei
 
 ### Yukari & Mitsuru
@@ -693,7 +695,7 @@ Equip Null Slash accessory on Aigis
 * Stay on Bishamonten and nuke down Yukari with Ragnarok 
 * Spam Ragnarok on Mitsuru until right before phase change (half HP)
 * Swap to Arahabaki and keep Tetrakarn up, rush whenever you have free turns
-* If you have the Laksmi w/ Ice Break you can it with Arahabaki's Repel Ice for big damage
+* If you have the Laksmi w/ Ice Break you can use it with Arahabaki's Repel Ice for big damage
 
 Take Yukari, Akihiko, Mitsuru (in that order)
 
