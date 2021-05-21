@@ -549,53 +549,53 @@ Grind for Ice Amp
 
 If you find Titania first, learn Ice Amp then fuse any of these (Random shuffle time personas are bolded):
 
-> Mothman x Titania = Dominion w/ Growth 2, Ice Amp, Ice Boos
+> Mothman x Titania = Dominion w/ Ice Amp, Ice Boos
 
-> Dominion x **Atropos** x **Ose/Decarabia/Parvati/Kikuri-Hime** = Loki w/ Growth 2, Ice Amp, Ice Boost
+> Dominion x **Atropos** x **Ose/Decarabia/Parvati/Kikuri-Hime** = Loki w/ Ice Amp, Ice Boost
 >
-> Dominion x **Kumbhanda** x **Kurama Tengu/Ubelluris/Nebiros/Hecatoncheires** = Loki w/ Growth 2, Ice Amp, Ice Boost
+> Dominion x **Kumbhanda** x **Kurama Tengu/Ubelluris/Nebiros/Hecatoncheires** = Loki w/ Ice Amp, Ice Boost
 >
-> Dominion x **Daisoujou** x **Kingu/Barong** = Loki w/ Growth 2, Ice Amp, Ice Boost
+> Dominion x **Daisoujou** x **Kingu/Barong** = Loki w/ Ice Amp, Ice Boost
 >
-> Dominion x **Nebiros** x **Ubelluris** = Loki w/ Growth 2, Ice Amp, Ice Boost
+> Dominion x **Nebiros** x **Ubelluris** = Loki w/ Ice Amp, Ice Boost
 >
-> Dominion x **Hariti** x **Yaksini/Laksmi** = Loki w/ Growth 2, Ice Amp, Ice Boost
+> Dominion x **Hariti** x **Yaksini/Laksmi** = Loki w/ Ice Amp, Ice Boost
 
 OR:
 
 > Mothman x **Kingu/Parvati/Barong/Kikuri-Hime** = Narasimha w/ Ice Boost
 >
-> Titania x Narasimha x **Kurama Tengu** = Loki w/ Growth 2, Ice Amp, Ice Boost
+> Titania x Narasimha x **Kurama Tengu** = Loki w/ Ice Amp, Ice Boost
 
 OR:
 
 > Mothman x **Hokuto Seikun/Daisoujou** = Koumokuten w/ Ice Boost
 >
-> Titania x Koumokuten x **Ubelluris** = Loki w/ Growth 2, Ice Amp, Ice Boost
+> Titania x Koumokuten x **Ubelluris** = Loki w/ Ice Amp, Ice Boost
 
 OR:
 
 > Mothman x **Kumbhanda** = Kurama Tengu w/ Ice Boost
 >
-> Titania x Kurama Tengu x **Narasimha/Ubelluris** = Loki w/ Growth 2, Ice Amp, Ice Boost
+> Titania x Kurama Tengu x **Narasimha/Ubelluris** = Loki w/ Ice Amp, Ice Boost
 
 OR:
 
 > Mothman x **Leanan Sidhe** = Saki Mitama w/ Ice Boost
 >
-> Titania x Saki Mitama x **Atropos** = Loki w/ Growth 2, Ice Amp, Ice Boost
+> Titania x Saki Mitama x **Atropos** = Loki w/ Ice Amp, Ice Boost
 
 OR:
 
 > Mothman x **Hell Biker** = Atropos w/ Ice Boost
 >
-> Titania x Atropos x **Saki Mitama** = Loki w/ Growth 2, Ice Amp, Ice Boost
+> Titania x Atropos x **Saki Mitama** = Loki w/ Ice Amp, Ice Boost
 
 OR:
 
 > Mothman x **Sati/Flauros/Orobas/Rangda** = Nata Taishi w/ Ice Boost
 >
-> Titania x Nata Taishi x **Laksmi/Hariti** = Loki w/ Growth 2, Ice Amp, Ice Boost
+> Titania x Nata Taishi x **Laksmi/Hariti** = Loki w/ Ice Amp, Ice Boost
 
 Regardless of which fusion you use, grind for Null Fire
 
@@ -603,11 +603,11 @@ Regardless of which fusion you use, grind for Null Fire
 
 If you find Titania first and want to do Ice Break memes for Mitsuru fuse:
 
-> Mothman x Titania = Dominion w/ Ice Amp, Ice Boost, Growth 2/Mediarama
+> Mothman x Titania = Dominion w/ Ice Amp, Ice Boost, Mediarama
 
-> Dominion x Kikuri-Hime x Narasimha = Lakshmi w/ Ice Amp, Ice Boost, Growth 2/Mediarama
+> Dominion x Kikuri-Hime x Narasimha = Lakshmi w/ Ice Amp, Ice Boost, Mediarama
 >
-> Dominion x Kali x Kingu/Barong = Lakshmi w/ Ice Amp, Ice Boost, Growth 2/Mediarama
+> Dominion x Kali x Kingu/Barong = Lakshmi w/ Ice Amp, Ice Boost, Mediarama
 
 Grind for Ice Break, Null Dark, Resist Fire
 
@@ -686,9 +686,7 @@ Equip Null Slash accessory on Aigis
 
 * Bufudyne down Koromaru first
 * If you get Fire Broken and take damage from Aigdyne heal with Mediarama or Bishamonten's Diarhan
-* When Junpei is alone switch to Arahabaki and keep Tetrakarn up, Bufudyne Junpei when free
-
-Equip Null Wind accessory on Aigis
+* Spam Bufudyne on Junpei
 
 ### Yukari & Mitsuru
 
